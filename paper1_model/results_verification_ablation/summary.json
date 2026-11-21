@@ -1,0 +1,17 @@
+{
+  "watermark_only": {
+    "count": 20,
+    "acceptance_rate": 1.0,
+    "mean_score": 1.0
+  },
+  "db_only": {
+    "count": 20,
+    "acceptance_rate": 0.0,
+    "mean_score": 0.37921875
+  },
+  "joint": {
+    "count": 20,
+    "acceptance_rate": 0.0,
+    "mean_score": 0.639609375
+  }
+}

@@ -1,0 +1,11 @@
+﻿category,generation_id,method,display_name,payload_bits,psnr,ssim,relative_path
+landscape,02980eb6e3ce4f9796824577e62c35fb,original,Original,0,,,paper1_model\results_visual_evidence\multimethod\landscape_original.png
+landscape,02980eb6e3ce4f9796824577e62c35fb,ours,Ours,1024,41.096446,0.999404808,paper1_model\results_visual_evidence\multimethod\landscape_ours.png
+landscape,02980eb6e3ce4f9796824577e62c35fb,dwtDct,DWT-DCT,1024,37.343119,0.999999707,paper1_model\results_visual_evidence\multimethod\landscape_dwtDct.png
+landscape,02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,DWT-DCT-SVD,1024,37.194242,0.999999784,paper1_model\results_visual_evidence\multimethod\landscape_dwtDctSvd.png
+landscape,02980eb6e3ce4f9796824577e62c35fb,rivaGan,RivaGAN,32,40.578449,0.999906107,paper1_model\results_visual_evidence\multimethod\landscape_rivaGan.png
+portrait,e794dcbfdc1f4f15b79f12f0f65e65cb,original,Original,0,,,paper1_model\results_visual_evidence\multimethod\portrait_original.png
+portrait,e794dcbfdc1f4f15b79f12f0f65e65cb,ours,Ours,1024,39.797526,0.999354301,paper1_model\results_visual_evidence\multimethod\portrait_ours.png
+portrait,e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,DWT-DCT,1024,39.546312,0.999999764,paper1_model\results_visual_evidence\multimethod\portrait_dwtDct.png
+portrait,e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,DWT-DCT-SVD,1024,39.218594,0.999999957,paper1_model\results_visual_evidence\multimethod\portrait_dwtDctSvd.png
+portrait,e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,RivaGAN,32,40.470523,0.999933830,paper1_model\results_visual_evidence\multimethod\portrait_rivaGan.png

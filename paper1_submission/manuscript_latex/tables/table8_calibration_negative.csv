@@ -1,0 +1,6 @@
+﻿Test,Condition,Accepted / tested,Interpretation
+Held-out trust,Score >= 0.55,TPR 97.3%; FPR 0.00%,High-confidence operating point
+Held-out trust,Score >= 0.32,TPR 98.0%; FPR 0.32%,Medium-or-higher operating point
+Clean negatives,Joint verification,0 / 100,No observed clean false positives
+Physical stress,Screen-capture simulator,0 / 200,Current carrier fails
+Physical stress,Print-scan simulator,0 / 200,Current carrier fails

@@ -1,0 +1,14 @@
+﻿Parameter,Value
+Input size,512 x 512 px
+Color/luminance domain,Y channel
+DWT,"Haar, level 1"
+DCT block,8 x 8
+Coefficient pair,"(3,2) and (2,3)"
+Embedding strength,alpha = 28
+Block selection seed,20260910
+Error control,"RS(32,16) + 4-repeat"
+Coded payload length,1024 bits
+ORB binding threshold,0.30
+Flat-image fallback,0.90
+Medium trust threshold,0.32
+High trust threshold,0.55

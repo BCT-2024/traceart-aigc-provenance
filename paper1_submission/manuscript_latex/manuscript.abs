@@ -1,0 +1,23 @@
+Artificial intelligence-generated content (AIGC) images can be edited and
+redistributed after generation, yet an AI detector or a watermark bit string
+does not establish that an image belongs to a registered generation event.
+Watermarking, metadata, and perceptual hashing provide complementary evidence,
+but they are often verified separately, leaving payload integrity, registry
+identity, and image-content consistency unresolved within one decision. We
+present a platform-controlled provenance framework that encodes projected
+platform, generation, model-version, timestamp, and content fields, together
+with a cyclic redundancy check (CRC-16), into a 128-bit payload. The record is
+protected by a Reed--Solomon code, RS(32,16), and fourfold repetition, and 1024
+coded bits are embedded using discrete wavelet and discrete cosine transforms
+(DWT--DCT) on the luminance channel. Verification searches spatial alignments,
+decodes the payload, matches its generation identifier against a trusted
+registry, binds image content through oriented FAST and rotated BRIEF (ORB) or a
+texture-aware fallback, and assigns graded trust. Acceptance requires payload
+integrity, registered-generation matching, content agreement, and non-low
+trust. On 200 registered and 100 clean negative images, mean PSNR was 39.65 dB
+and SSIM was 0.998980; acceptance was 92.0\% for crop0.9 and 81.5\% for
+crop+resize+JPEG70. Joint verification rejected all 20 tested forged and 50
+transplanted payloads; the held-out area under the receiver operating
+characteristic curve (AUC) was 0.999833. Strong screen-capture and print--scan
+simulations remained unresolved at 0/200. These results support
+platform-scoped provenance rather than universal cross-platform attribution.

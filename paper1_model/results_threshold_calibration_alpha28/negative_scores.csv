@@ -1,0 +1,1901 @@
+﻿generation_id,sample_group,attack,params,score,trust,false_positive
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,clean,{},0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,jpeg,"{""quality"": 90}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,jpeg,"{""quality"": 70}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,jpeg,"{""quality"": 50}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,resize,"{""scale"": 0.75}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,resize,"{""scale"": 1.5}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,crop,"{""ratio"": 0.9}",0.13828125,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,gaussian_noise,"{""sigma"": 3}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,gaussian_noise,"{""sigma"": 8}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,brightness_contrast,{},0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,blur,"{""ksize"": 3}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,screenshot,{},0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13828125,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.140625,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13828125,low,0
+5221ffc47d4b42a08cb6ac56feb610ac,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.140625,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,clean,{},0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,jpeg,"{""quality"": 90}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,jpeg,"{""quality"": 70}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,jpeg,"{""quality"": 50}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,resize,"{""scale"": 0.75}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,resize,"{""scale"": 1.5}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,crop,"{""ratio"": 0.9}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,gaussian_noise,"{""sigma"": 3}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,gaussian_noise,"{""sigma"": 8}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,salt_pepper,"{""amount"": 0.002}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,brightness_contrast,{},0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,blur,"{""ksize"": 3}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,screenshot,{},0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.15,low,0
+d9c8d6d3d2d5474b9052d9b3be8f5aee,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.15,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,clean,{},0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,jpeg,"{""quality"": 90}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,jpeg,"{""quality"": 70}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,jpeg,"{""quality"": 50}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,resize,"{""scale"": 0.75}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,resize,"{""scale"": 1.5}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,crop,"{""ratio"": 0.9}",0.13828125,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,brightness_contrast,{},0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,screenshot,{},0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13828125,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1865625,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13359374999999998,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1865625,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13828125,low,0
+5bf089a8ec864a56be3ced6a6160e47b,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1865625,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,clean,{},0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,jpeg,"{""quality"": 90}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,jpeg,"{""quality"": 70}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,jpeg,"{""quality"": 50}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,resize,"{""scale"": 0.75}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,resize,"{""scale"": 1.5}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,crop,"{""ratio"": 0.9}",0.14296875,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,gaussian_noise,"{""sigma"": 3}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,gaussian_noise,"{""sigma"": 8}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,salt_pepper,"{""amount"": 0.002}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,brightness_contrast,{},0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,blur,"{""ksize"": 3}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,screenshot,{},0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.14296875,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.15,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14296875,low,0
+81b3f5cde94141be97cc0909c0edafd8,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.15,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,clean,{},0.18421875,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,jpeg,"{""quality"": 90}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,jpeg,"{""quality"": 70}",0.18421875,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,jpeg,"{""quality"": 50}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,resize,"{""scale"": 0.75}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,resize,"{""scale"": 1.5}",0.18421875,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,gaussian_noise,"{""sigma"": 3}",0.36953125,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,brightness_contrast,{},0.18421875,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,blur,"{""ksize"": 3}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,screenshot,{},0.18421875,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+e4173fbc3a7a407eb2c5dd35b3c658f7,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,clean,{},0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,jpeg,"{""quality"": 90}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,jpeg,"{""quality"": 70}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,jpeg,"{""quality"": 50}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,resize,"{""scale"": 0.75}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,resize,"{""scale"": 1.5}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,crop,"{""ratio"": 0.9}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,gaussian_noise,"{""sigma"": 3}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,gaussian_noise,"{""sigma"": 8}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,salt_pepper,"{""amount"": 0.002}",0.200625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,brightness_contrast,{},0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,blur,"{""ksize"": 3}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,screenshot,{},0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14765625,low,0
+70eca13fdfd94f3e96bff733612b1c61,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.14765625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,clean,{},0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,jpeg,"{""quality"": 90}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,jpeg,"{""quality"": 70}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,jpeg,"{""quality"": 50}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,resize,"{""scale"": 0.75}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,resize,"{""scale"": 1.5}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,crop,"{""ratio"": 0.9}",0.14296875,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,gaussian_noise,"{""sigma"": 3}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,gaussian_noise,"{""sigma"": 8}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,brightness_contrast,{},0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,blur,"{""ksize"": 3}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,screenshot,{},0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.14296875,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.140625,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14296875,low,0
+b820b6e935dc4ee09cb982da97e46424,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.140625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,clean,{},0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,jpeg,"{""quality"": 90}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,jpeg,"{""quality"": 70}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,jpeg,"{""quality"": 50}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,resize,"{""scale"": 0.75}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,resize,"{""scale"": 1.5}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,crop,"{""ratio"": 0.9}",0.1265625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,brightness_contrast,{},0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,blur,"{""ksize"": 3}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,screenshot,{},0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1265625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1265625,low,0
+dd818f1f671a4c66bbf3ca38c4a46131,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,clean,{},0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,jpeg,"{""quality"": 90}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,jpeg,"{""quality"": 70}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,jpeg,"{""quality"": 50}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,resize,"{""scale"": 0.75}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,resize,"{""scale"": 1.5}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,crop,"{""ratio"": 0.9}",0.11249999999999999,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,brightness_contrast,{},0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,blur,"{""ksize"": 3}",0.1265625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,screenshot,{},0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+c63532081e094832ab739462041ab7a9,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,clean,{},0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,jpeg,"{""quality"": 90}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,jpeg,"{""quality"": 70}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,jpeg,"{""quality"": 50}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,resize,"{""scale"": 0.75}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,resize,"{""scale"": 1.5}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,crop,"{""ratio"": 0.9}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,gaussian_noise,"{""sigma"": 3}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,gaussian_noise,"{""sigma"": 8}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,brightness_contrast,{},0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,blur,"{""ksize"": 3}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,screenshot,{},0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+ec91db9ccd2c4c318219990a0dc7dde7,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,clean,{},0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,jpeg,"{""quality"": 90}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,jpeg,"{""quality"": 70}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,jpeg,"{""quality"": 50}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,resize,"{""scale"": 0.75}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,resize,"{""scale"": 1.5}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,gaussian_noise,"{""sigma"": 3}",0.11953124999999999,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,brightness_contrast,{},0.11953124999999999,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,blur,"{""ksize"": 3}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,screenshot,{},0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11953124999999999,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.121875,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+5a4484618d34402a9bf0f64d2520bc84,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.121875,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,clean,{},0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,jpeg,"{""quality"": 90}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,jpeg,"{""quality"": 70}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,jpeg,"{""quality"": 50}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,resize,"{""scale"": 0.75}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,resize,"{""scale"": 1.5}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,crop,"{""ratio"": 0.9}",0.13125,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,brightness_contrast,{},0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,blur,"{""ksize"": 3}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,screenshot,{},0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+b4d3486431274acaa55d078cc1cb06eb,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+7b262249046543218b592bed654a420e,negative_ai,clean,{},0.200625,low,0
+7b262249046543218b592bed654a420e,negative_ai,jpeg,"{""quality"": 90}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,jpeg,"{""quality"": 70}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,jpeg,"{""quality"": 50}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,resize,"{""scale"": 0.75}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,resize,"{""scale"": 1.5}",0.200625,low,0
+7b262249046543218b592bed654a420e,negative_ai,crop,"{""ratio"": 0.9}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,gaussian_noise,"{""sigma"": 3}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,gaussian_noise,"{""sigma"": 8}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,salt_pepper,"{""amount"": 0.002}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,brightness_contrast,{},0.200625,low,0
+7b262249046543218b592bed654a420e,negative_ai,blur,"{""ksize"": 3}",0.200625,low,0
+7b262249046543218b592bed654a420e,negative_ai,screenshot,{},0.200625,low,0
+7b262249046543218b592bed654a420e,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.200625,low,0
+7b262249046543218b592bed654a420e,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14531249999999998,low,0
+7b262249046543218b592bed654a420e,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.200625,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,clean,{},0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,jpeg,"{""quality"": 90}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,jpeg,"{""quality"": 70}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,jpeg,"{""quality"": 50}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,resize,"{""scale"": 0.75}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,resize,"{""scale"": 1.5}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,crop,"{""ratio"": 0.9}",0.12890625,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,brightness_contrast,{},0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,blur,"{""ksize"": 3}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,screenshot,{},0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12890625,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12890625,low,0
+38c3b664f14347e7b1a90051f9f44920,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13125,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,clean,{},0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,jpeg,"{""quality"": 90}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,jpeg,"{""quality"": 70}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,jpeg,"{""quality"": 50}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,resize,"{""scale"": 0.75}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,resize,"{""scale"": 1.5}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,crop,"{""ratio"": 0.9}",0.13125,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,brightness_contrast,{},0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,screenshot,{},0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+ed0256b69bcc45f59a880692bbb8ee51,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13359374999999998,low,0
+563727c04e144d09801513e48810cde6,negative_ai,clean,{},0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,jpeg,"{""quality"": 90}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,jpeg,"{""quality"": 70}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,jpeg,"{""quality"": 50}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,resize,"{""scale"": 0.75}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,resize,"{""scale"": 1.5}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,crop,"{""ratio"": 0.9}",0.13125,low,0
+563727c04e144d09801513e48810cde6,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,brightness_contrast,{},0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,blur,"{""ksize"": 3}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,screenshot,{},0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+563727c04e144d09801513e48810cde6,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+563727c04e144d09801513e48810cde6,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+563727c04e144d09801513e48810cde6,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,clean,{},0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,jpeg,"{""quality"": 90}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,jpeg,"{""quality"": 70}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,jpeg,"{""quality"": 50}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,resize,"{""scale"": 0.75}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,resize,"{""scale"": 1.5}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,crop,"{""ratio"": 0.9}",0.13359374999999998,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,brightness_contrast,{},0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,blur,"{""ksize"": 3}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,screenshot,{},0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+6832fc6f7b3b45339cf0a9463776edb2,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,clean,{},0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,jpeg,"{""quality"": 90}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,jpeg,"{""quality"": 70}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,jpeg,"{""quality"": 50}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,resize,"{""scale"": 0.75}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,resize,"{""scale"": 1.5}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,crop,"{""ratio"": 0.9}",0.12890625,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,brightness_contrast,{},0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,blur,"{""ksize"": 3}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,screenshot,{},0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12890625,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12890625,low,0
+ac823d54407647ce80bba1c729c0cc44,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1490625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,clean,{},0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,jpeg,"{""quality"": 90}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,jpeg,"{""quality"": 70}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,jpeg,"{""quality"": 50}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,resize,"{""scale"": 0.75}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,resize,"{""scale"": 1.5}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,crop,"{""ratio"": 0.9}",0.1265625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,brightness_contrast,{},0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,blur,"{""ksize"": 3}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,screenshot,{},0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1265625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1265625,low,0
+8ed94503db554020a94c195c41f5bae8,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,clean,{},0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,jpeg,"{""quality"": 90}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,jpeg,"{""quality"": 70}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,jpeg,"{""quality"": 50}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,resize,"{""scale"": 0.75}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,resize,"{""scale"": 1.5}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,crop,"{""ratio"": 0.9}",0.13125,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,brightness_contrast,{},0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,blur,"{""ksize"": 3}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,screenshot,{},0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+e9a8c30efe604ba486e46933dd1e1287,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,clean,{},0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,crop,"{""ratio"": 0.9}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,brightness_contrast,{},0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,screenshot,{},0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1359375,low,0
+b6c9b6b077c94956b8fddec1f07db2de,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,clean,{},0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,jpeg,"{""quality"": 90}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,jpeg,"{""quality"": 70}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,jpeg,"{""quality"": 50}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,resize,"{""scale"": 0.75}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,resize,"{""scale"": 1.5}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,crop,"{""ratio"": 0.9}",0.140625,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,gaussian_noise,"{""sigma"": 3}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,gaussian_noise,"{""sigma"": 8}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,salt_pepper,"{""amount"": 0.002}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,brightness_contrast,{},0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,blur,"{""ksize"": 3}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,screenshot,{},0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.200625,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.14296875,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+de50bc8963b0443cb7bffa418d64827c,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.14296875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,clean,{},0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,jpeg,"{""quality"": 90}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,jpeg,"{""quality"": 70}",0.17484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,jpeg,"{""quality"": 50}",0.11484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,resize,"{""scale"": 0.75}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,resize,"{""scale"": 1.5}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,crop,"{""ratio"": 0.9}",0.11484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,brightness_contrast,{},0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,blur,"{""ksize"": 3}",0.11484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,screenshot,{},0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1171875,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+94b1e709326b4e1ab6822b7fffd9f3bd,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,clean,{},0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,crop,"{""ratio"": 0.9}",0.13828125,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,brightness_contrast,{},0.13828125,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,screenshot,{},0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13828125,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13828125,low,0
+a01e191ad9404a12b1b4069608289888,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,clean,{},0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,jpeg,"{""quality"": 90}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,jpeg,"{""quality"": 70}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,jpeg,"{""quality"": 50}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,resize,"{""scale"": 0.75}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,resize,"{""scale"": 1.5}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,crop,"{""ratio"": 0.9}",0.1359375,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,brightness_contrast,{},0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,blur,"{""ksize"": 3}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,screenshot,{},0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13828125,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+96163fcc8b5f40108701cdd6b54b4d15,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13828125,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,clean,{},0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,jpeg,"{""quality"": 90}",0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,jpeg,"{""quality"": 70}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,jpeg,"{""quality"": 50}",0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,resize,"{""scale"": 1.5}",0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,crop,"{""ratio"": 0.9}",0.16781249999999998,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,brightness_contrast,{},0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,screenshot,{},0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.16781249999999998,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+85653423b0ab4dcb8d74642af94e46b8,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,clean,{},0.1584375,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,jpeg,"{""quality"": 90}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,jpeg,"{""quality"": 70}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,jpeg,"{""quality"": 50}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,resize,"{""scale"": 0.75}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,resize,"{""scale"": 1.5}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,gaussian_noise,"{""sigma"": 3}",0.15609374999999998,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,gaussian_noise,"{""sigma"": 8}",0.15609374999999998,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,salt_pepper,"{""amount"": 0.002}",0.11953124999999999,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,brightness_contrast,{},0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,blur,"{""ksize"": 3}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,screenshot,{},0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.121875,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+f5b832226460447c9e2d99fd0765010c,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.121875,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,clean,{},0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,crop,"{""ratio"": 0.9}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,brightness_contrast,{},0.13359374999999998,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,screenshot,{},0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1359375,low,0
+37d3cc61a07241ac827648853204843d,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,clean,{},0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,crop,"{""ratio"": 0.9}",0.14296875,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,brightness_contrast,{},0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,screenshot,{},0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.14296875,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14296875,low,0
+f628b31f07d74e64b8bc46f7caff8c73,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,clean,{},0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,jpeg,"{""quality"": 90}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,jpeg,"{""quality"": 70}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,jpeg,"{""quality"": 50}",0.11249999999999999,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,resize,"{""scale"": 0.75}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,resize,"{""scale"": 1.5}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,crop,"{""ratio"": 0.9}",0.11249999999999999,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,brightness_contrast,{},0.11484375,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,blur,"{""ksize"": 3}",0.11484375,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,screenshot,{},0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+82d046d82018421eb842b316fd20ab23,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,clean,{},0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,jpeg,"{""quality"": 90}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,jpeg,"{""quality"": 70}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,jpeg,"{""quality"": 50}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,resize,"{""scale"": 0.75}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,resize,"{""scale"": 1.5}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,crop,"{""ratio"": 0.9}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,brightness_contrast,{},0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,blur,"{""ksize"": 3}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,screenshot,{},0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+959a1ba218994001a07bcc00c098357b,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13125,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,clean,{},0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,jpeg,"{""quality"": 90}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,jpeg,"{""quality"": 70}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,jpeg,"{""quality"": 50}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,resize,"{""scale"": 0.75}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,resize,"{""scale"": 1.5}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,crop,"{""ratio"": 0.9}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,gaussian_noise,"{""sigma"": 3}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,gaussian_noise,"{""sigma"": 8}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,brightness_contrast,{},0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,blur,"{""ksize"": 3}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,screenshot,{},0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+c61981422eec4009aa314d354a3a5e23,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.140625,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,clean,{},0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,jpeg,"{""quality"": 90}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,jpeg,"{""quality"": 70}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,jpeg,"{""quality"": 50}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,resize,"{""scale"": 0.75}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,resize,"{""scale"": 1.5}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,crop,"{""ratio"": 0.9}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,gaussian_noise,"{""sigma"": 3}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,gaussian_noise,"{""sigma"": 8}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,salt_pepper,"{""amount"": 0.002}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,brightness_contrast,{},0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,blur,"{""ksize"": 3}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,screenshot,{},0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.200625,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14296875,low,0
+3ac689b3e8de4663b5838777b04bac41,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,clean,{},0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,jpeg,"{""quality"": 90}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,jpeg,"{""quality"": 70}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,jpeg,"{""quality"": 50}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,resize,"{""scale"": 0.75}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,resize,"{""scale"": 1.5}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,crop,"{""ratio"": 0.9}",0.15140625,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,gaussian_noise,"{""sigma"": 3}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,gaussian_noise,"{""sigma"": 8}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,salt_pepper,"{""amount"": 0.002}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,brightness_contrast,{},0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,blur,"{""ksize"": 3}",0.15140625,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,screenshot,{},0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.15140625,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.14296875,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.15140625,low,0
+0e1d4f52bc604c1fa63f6cbcdf8cc1fe,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.14296875,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,clean,{},0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,jpeg,"{""quality"": 90}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,jpeg,"{""quality"": 70}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,resize,"{""scale"": 1.5}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,crop,"{""ratio"": 0.9}",0.121875,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1490625,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,brightness_contrast,{},0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,screenshot,{},0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+397e448d9fcb45f69c4d7f87cc0f57fa,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,clean,{},0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,jpeg,"{""quality"": 90}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,jpeg,"{""quality"": 70}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,jpeg,"{""quality"": 50}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,resize,"{""scale"": 0.75}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,resize,"{""scale"": 1.5}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,crop,"{""ratio"": 0.9}",0.14531249999999998,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,brightness_contrast,{},0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,blur,"{""ksize"": 3}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,screenshot,{},0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.14531249999999998,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13828125,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.14531249999999998,low,0
+0277613ef5334dc8b6af944ea644670a,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13828125,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,clean,{},0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,jpeg,"{""quality"": 90}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,jpeg,"{""quality"": 70}",0.12421874999999999,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,resize,"{""scale"": 0.75}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,resize,"{""scale"": 1.5}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,crop,"{""ratio"": 0.9}",0.13125,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12421874999999999,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,brightness_contrast,{},0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,screenshot,{},0.12421874999999999,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+21ebc01700814f47af48563c4f6fa252,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,clean,{},0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,crop,"{""ratio"": 0.9}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,brightness_contrast,{},0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,screenshot,{},0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1359375,low,0
+e2262546c459460ca3012a6462e40b53,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,clean,{},0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,jpeg,"{""quality"": 90}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,jpeg,"{""quality"": 70}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,jpeg,"{""quality"": 50}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,resize,"{""scale"": 0.75}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,resize,"{""scale"": 1.5}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,crop,"{""ratio"": 0.9}",0.121875,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,brightness_contrast,{},0.13125,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,blur,"{""ksize"": 3}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,screenshot,{},0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+506e269459de4d59843ce8b47360a239,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,clean,{},0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,jpeg,"{""quality"": 90}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,jpeg,"{""quality"": 70}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,jpeg,"{""quality"": 50}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,resize,"{""scale"": 0.75}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,resize,"{""scale"": 1.5}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,crop,"{""ratio"": 0.9}",0.1359375,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,brightness_contrast,{},0.13125,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,screenshot,{},0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1359375,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1359375,low,0
+15f959d8d8934da1b90474eddf500332,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13359374999999998,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,clean,{},0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,crop,"{""ratio"": 0.9}",0.140625,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,brightness_contrast,{},0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,screenshot,{},0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+4a5de8a16418498dbd60069c178c2cc6,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,clean,{},0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,crop,"{""ratio"": 0.9}",0.13359374999999998,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,brightness_contrast,{},0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,screenshot,{},0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+d275b1d9f92d491b86625749b41de847,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,clean,{},0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,jpeg,"{""quality"": 90}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,jpeg,"{""quality"": 70}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,jpeg,"{""quality"": 50}",0.13125,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,resize,"{""scale"": 0.75}",0.135,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,resize,"{""scale"": 1.5}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,crop,"{""ratio"": 0.9}",0.1265625,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,brightness_contrast,{},0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,screenshot,{},0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.18421875,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.18421875,low,0
+5bb45b4750dc4109804b2e527ed7e9ba,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13359374999999998,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,clean,{},0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,jpeg,"{""quality"": 90}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,jpeg,"{""quality"": 70}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,jpeg,"{""quality"": 50}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,resize,"{""scale"": 0.75}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,resize,"{""scale"": 1.5}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,crop,"{""ratio"": 0.9}",0.1359375,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,brightness_contrast,{},0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,blur,"{""ksize"": 3}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,screenshot,{},0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1359375,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13828125,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1359375,low,0
+e7a4f4b24feb4c7699168353cefd3107,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13828125,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,clean,{},0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,jpeg,"{""quality"": 90}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,jpeg,"{""quality"": 70}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,jpeg,"{""quality"": 50}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,resize,"{""scale"": 0.75}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,resize,"{""scale"": 1.5}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,crop,"{""ratio"": 0.9}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,gaussian_noise,"{""sigma"": 3}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,gaussian_noise,"{""sigma"": 8}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,brightness_contrast,{},0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,screenshot,{},0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+e9b82b2794fb4346b6c7a840d936b5f8,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13359374999999998,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,clean,{},0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,jpeg,"{""quality"": 90}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,jpeg,"{""quality"": 70}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,jpeg,"{""quality"": 50}",0.11953124999999999,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,resize,"{""scale"": 0.75}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,resize,"{""scale"": 1.5}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,crop,"{""ratio"": 0.9}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,gaussian_noise,"{""sigma"": 3}",0.11953124999999999,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,gaussian_noise,"{""sigma"": 8}",0.11953124999999999,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,salt_pepper,"{""amount"": 0.002}",0.11953124999999999,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,brightness_contrast,{},0.11953124999999999,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,blur,"{""ksize"": 3}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,screenshot,{},0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11953124999999999,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+165b71184c6f4a08a4f95f1698f6e332,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,clean,{},0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,jpeg,"{""quality"": 90}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,jpeg,"{""quality"": 70}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,jpeg,"{""quality"": 50}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,resize,"{""scale"": 0.75}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,resize,"{""scale"": 1.5}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,crop,"{""ratio"": 0.9}",0.1171875,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,gaussian_noise,"{""sigma"": 3}",0.11249999999999999,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,gaussian_noise,"{""sigma"": 8}",0.11249999999999999,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,brightness_contrast,{},0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,blur,"{""ksize"": 3}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,screenshot,{},0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11249999999999999,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+4945e78eb3e84f7da34d743a6b544f36,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11484375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,clean,{},0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,jpeg,"{""quality"": 90}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,jpeg,"{""quality"": 70}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,jpeg,"{""quality"": 50}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,resize,"{""scale"": 0.75}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,resize,"{""scale"": 1.5}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,crop,"{""ratio"": 0.9}",0.140625,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,salt_pepper,"{""amount"": 0.002}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,brightness_contrast,{},0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,blur,"{""ksize"": 3}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,screenshot,{},0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1359375,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+9a8143c9a0034cf8b396cab4bd0b9546,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1359375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,clean,{},0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,jpeg,"{""quality"": 90}",0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,jpeg,"{""quality"": 70}",0.11484375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,jpeg,"{""quality"": 50}",0.11484375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,resize,"{""scale"": 0.75}",0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,resize,"{""scale"": 1.5}",0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,crop,"{""ratio"": 0.9}",0.11953124999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,brightness_contrast,{},0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,blur,"{""ksize"": 3}",0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,screenshot,{},0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+ef9731a6242c4c3aad9e697481b9d38c,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11249999999999999,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,clean,{},0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,jpeg,"{""quality"": 90}",0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,jpeg,"{""quality"": 70}",0.140625,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,jpeg,"{""quality"": 50}",0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,resize,"{""scale"": 0.75}",0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,resize,"{""scale"": 1.5}",0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,crop,"{""ratio"": 0.9}",0.11953124999999999,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,gaussian_noise,"{""sigma"": 3}",0.1359375,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,gaussian_noise,"{""sigma"": 8}",0.1359375,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,brightness_contrast,{},0.140625,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,blur,"{""ksize"": 3}",0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,screenshot,{},0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.14296875,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13828125,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.14531249999999998,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+8b035dcf2f5d43f3a444cf424d6deee1,negative_ai,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13828125,low,0
+04b0165e2a020013,natural,clean,{},0.12890625,low,0
+04b0165e2a020013,natural,jpeg,"{""quality"": 90}",0.12890625,low,0
+04b0165e2a020013,natural,jpeg,"{""quality"": 70}",0.12890625,low,0
+04b0165e2a020013,natural,jpeg,"{""quality"": 50}",0.12890625,low,0
+04b0165e2a020013,natural,resize,"{""scale"": 0.75}",0.12890625,low,0
+04b0165e2a020013,natural,resize,"{""scale"": 1.5}",0.12890625,low,0
+04b0165e2a020013,natural,crop,"{""ratio"": 0.9}",0.13125,low,0
+04b0165e2a020013,natural,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+04b0165e2a020013,natural,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+04b0165e2a020013,natural,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+04b0165e2a020013,natural,brightness_contrast,{},0.12890625,low,0
+04b0165e2a020013,natural,blur,"{""ksize"": 3}",0.12890625,low,0
+04b0165e2a020013,natural,screenshot,{},0.12890625,low,0
+04b0165e2a020013,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+04b0165e2a020013,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+04b0165e2a020013,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+04b0165e2a020013,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+04b0165e2a020013,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+04b0165e2a020013,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+2a636668c21e28d3,natural,clean,{},0.11015625,low,0
+2a636668c21e28d3,natural,jpeg,"{""quality"": 90}",0.11015625,low,0
+2a636668c21e28d3,natural,jpeg,"{""quality"": 70}",0.11015625,low,0
+2a636668c21e28d3,natural,jpeg,"{""quality"": 50}",0.11015625,low,0
+2a636668c21e28d3,natural,resize,"{""scale"": 0.75}",0.11015625,low,0
+2a636668c21e28d3,natural,resize,"{""scale"": 1.5}",0.11015625,low,0
+2a636668c21e28d3,natural,crop,"{""ratio"": 0.9}",0.1171875,low,0
+2a636668c21e28d3,natural,gaussian_noise,"{""sigma"": 3}",0.11015625,low,0
+2a636668c21e28d3,natural,gaussian_noise,"{""sigma"": 8}",0.11015625,low,0
+2a636668c21e28d3,natural,salt_pepper,"{""amount"": 0.002}",0.11015625,low,0
+2a636668c21e28d3,natural,brightness_contrast,{},0.11015625,low,0
+2a636668c21e28d3,natural,blur,"{""ksize"": 3}",0.11015625,low,0
+2a636668c21e28d3,natural,screenshot,{},0.11015625,low,0
+2a636668c21e28d3,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+2a636668c21e28d3,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11015625,low,0
+2a636668c21e28d3,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11015625,low,0
+2a636668c21e28d3,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11015625,low,0
+2a636668c21e28d3,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+2a636668c21e28d3,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11015625,low,0
+350588b3414feca5,natural,clean,{},0.13359374999999998,low,0
+350588b3414feca5,natural,jpeg,"{""quality"": 90}",0.13359374999999998,low,0
+350588b3414feca5,natural,jpeg,"{""quality"": 70}",0.13359374999999998,low,0
+350588b3414feca5,natural,jpeg,"{""quality"": 50}",0.13359374999999998,low,0
+350588b3414feca5,natural,resize,"{""scale"": 0.75}",0.13359374999999998,low,0
+350588b3414feca5,natural,resize,"{""scale"": 1.5}",0.13359374999999998,low,0
+350588b3414feca5,natural,crop,"{""ratio"": 0.9}",0.13125,low,0
+350588b3414feca5,natural,gaussian_noise,"{""sigma"": 3}",0.13359374999999998,low,0
+350588b3414feca5,natural,gaussian_noise,"{""sigma"": 8}",0.13359374999999998,low,0
+350588b3414feca5,natural,salt_pepper,"{""amount"": 0.002}",0.13359374999999998,low,0
+350588b3414feca5,natural,brightness_contrast,{},0.13359374999999998,low,0
+350588b3414feca5,natural,blur,"{""ksize"": 3}",0.13359374999999998,low,0
+350588b3414feca5,natural,screenshot,{},0.13359374999999998,low,0
+350588b3414feca5,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+350588b3414feca5,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+350588b3414feca5,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13359374999999998,low,0
+350588b3414feca5,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13359374999999998,low,0
+350588b3414feca5,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+350588b3414feca5,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13359374999999998,low,0
+5f5129cbe1a2f094,natural,clean,{},0.11484375,low,0
+5f5129cbe1a2f094,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+5f5129cbe1a2f094,natural,jpeg,"{""quality"": 70}",0.17484375,low,0
+5f5129cbe1a2f094,natural,jpeg,"{""quality"": 50}",0.11484375,low,0
+5f5129cbe1a2f094,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+5f5129cbe1a2f094,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+5f5129cbe1a2f094,natural,crop,"{""ratio"": 0.9}",0.1171875,low,0
+5f5129cbe1a2f094,natural,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+5f5129cbe1a2f094,natural,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+5f5129cbe1a2f094,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+5f5129cbe1a2f094,natural,brightness_contrast,{},0.1171875,low,0
+5f5129cbe1a2f094,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+5f5129cbe1a2f094,natural,screenshot,{},0.11484375,low,0
+5f5129cbe1a2f094,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+5f5129cbe1a2f094,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11484375,low,0
+5f5129cbe1a2f094,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1171875,low,0
+5f5129cbe1a2f094,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+5f5129cbe1a2f094,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+5f5129cbe1a2f094,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11484375,low,0
+6c24fb4aba7c0361,natural,clean,{},0.11484375,low,0
+6c24fb4aba7c0361,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+6c24fb4aba7c0361,natural,jpeg,"{""quality"": 70}",0.11484375,low,0
+6c24fb4aba7c0361,natural,jpeg,"{""quality"": 50}",0.11484375,low,0
+6c24fb4aba7c0361,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+6c24fb4aba7c0361,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+6c24fb4aba7c0361,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+6c24fb4aba7c0361,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+6c24fb4aba7c0361,natural,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+6c24fb4aba7c0361,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+6c24fb4aba7c0361,natural,brightness_contrast,{},0.1171875,low,0
+6c24fb4aba7c0361,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+6c24fb4aba7c0361,natural,screenshot,{},0.11484375,low,0
+6c24fb4aba7c0361,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11484375,low,0
+6c24fb4aba7c0361,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11484375,low,0
+6c24fb4aba7c0361,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+6c24fb4aba7c0361,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+6c24fb4aba7c0361,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+6c24fb4aba7c0361,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11484375,low,0
+8dc8743c198516e1,natural,clean,{},0.1171875,low,0
+8dc8743c198516e1,natural,jpeg,"{""quality"": 90}",0.1171875,low,0
+8dc8743c198516e1,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+8dc8743c198516e1,natural,jpeg,"{""quality"": 50}",0.1171875,low,0
+8dc8743c198516e1,natural,resize,"{""scale"": 0.75}",0.1171875,low,0
+8dc8743c198516e1,natural,resize,"{""scale"": 1.5}",0.1171875,low,0
+8dc8743c198516e1,natural,crop,"{""ratio"": 0.9}",0.11249999999999999,low,0
+8dc8743c198516e1,natural,gaussian_noise,"{""sigma"": 3}",0.11953124999999999,low,0
+8dc8743c198516e1,natural,gaussian_noise,"{""sigma"": 8}",0.11953124999999999,low,0
+8dc8743c198516e1,natural,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+8dc8743c198516e1,natural,brightness_contrast,{},0.11953124999999999,low,0
+8dc8743c198516e1,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+8dc8743c198516e1,natural,screenshot,{},0.1171875,low,0
+8dc8743c198516e1,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+8dc8743c198516e1,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+8dc8743c198516e1,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11953124999999999,low,0
+8dc8743c198516e1,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1171875,low,0
+8dc8743c198516e1,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+8dc8743c198516e1,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+9d04633d11d30db6,natural,clean,{},0.12890625,low,0
+9d04633d11d30db6,natural,jpeg,"{""quality"": 90}",0.12890625,low,0
+9d04633d11d30db6,natural,jpeg,"{""quality"": 70}",0.12890625,low,0
+9d04633d11d30db6,natural,jpeg,"{""quality"": 50}",0.12890625,low,0
+9d04633d11d30db6,natural,resize,"{""scale"": 0.75}",0.12890625,low,0
+9d04633d11d30db6,natural,resize,"{""scale"": 1.5}",0.12890625,low,0
+9d04633d11d30db6,natural,crop,"{""ratio"": 0.9}",0.13125,low,0
+9d04633d11d30db6,natural,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+9d04633d11d30db6,natural,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+9d04633d11d30db6,natural,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+9d04633d11d30db6,natural,brightness_contrast,{},0.12890625,low,0
+9d04633d11d30db6,natural,blur,"{""ksize"": 3}",0.12890625,low,0
+9d04633d11d30db6,natural,screenshot,{},0.12890625,low,0
+9d04633d11d30db6,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+9d04633d11d30db6,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+9d04633d11d30db6,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+9d04633d11d30db6,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+9d04633d11d30db6,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+9d04633d11d30db6,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+c4894ca942be8339,natural,clean,{},0.1171875,low,0
+c4894ca942be8339,natural,jpeg,"{""quality"": 90}",0.1171875,low,0
+c4894ca942be8339,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+c4894ca942be8339,natural,jpeg,"{""quality"": 50}",0.1171875,low,0
+c4894ca942be8339,natural,resize,"{""scale"": 0.75}",0.1171875,low,0
+c4894ca942be8339,natural,resize,"{""scale"": 1.5}",0.1171875,low,0
+c4894ca942be8339,natural,crop,"{""ratio"": 0.9}",0.11953124999999999,low,0
+c4894ca942be8339,natural,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+c4894ca942be8339,natural,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+c4894ca942be8339,natural,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+c4894ca942be8339,natural,brightness_contrast,{},0.1171875,low,0
+c4894ca942be8339,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+c4894ca942be8339,natural,screenshot,{},0.15375,low,0
+c4894ca942be8339,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1303125,low,0
+c4894ca942be8339,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+c4894ca942be8339,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1171875,low,0
+c4894ca942be8339,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.135,low,0
+c4894ca942be8339,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+c4894ca942be8339,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+eb5e7a50b589150e,natural,clean,{},0.11953124999999999,low,0
+eb5e7a50b589150e,natural,jpeg,"{""quality"": 90}",0.1725,low,0
+eb5e7a50b589150e,natural,jpeg,"{""quality"": 70}",0.1725,low,0
+eb5e7a50b589150e,natural,jpeg,"{""quality"": 50}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,resize,"{""scale"": 0.75}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,resize,"{""scale"": 1.5}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,crop,"{""ratio"": 0.9}",0.1171875,low,0
+eb5e7a50b589150e,natural,gaussian_noise,"{""sigma"": 3}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,gaussian_noise,"{""sigma"": 8}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,salt_pepper,"{""amount"": 0.002}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,brightness_contrast,{},0.11953124999999999,low,0
+eb5e7a50b589150e,natural,blur,"{""ksize"": 3}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,screenshot,{},0.11953124999999999,low,0
+eb5e7a50b589150e,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+eb5e7a50b589150e,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+eb5e7a50b589150e,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+eb5e7a50b589150e,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1725,low,0
+ecd3d850dc27fcbe,natural,clean,{},0.11484375,low,0
+ecd3d850dc27fcbe,natural,jpeg,"{""quality"": 90}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,jpeg,"{""quality"": 70}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,jpeg,"{""quality"": 50}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,resize,"{""scale"": 0.75}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,resize,"{""scale"": 1.5}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+ecd3d850dc27fcbe,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+ecd3d850dc27fcbe,natural,gaussian_noise,"{""sigma"": 8}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+ecd3d850dc27fcbe,natural,brightness_contrast,{},0.11484375,low,0
+ecd3d850dc27fcbe,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+ecd3d850dc27fcbe,natural,screenshot,{},0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+ecd3d850dc27fcbe,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11249999999999999,low,0
+ecd3d850dc27fcbe,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+ecd3d850dc27fcbe,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+ecd3d850dc27fcbe,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,clean,{},0.11249999999999999,low,0
+21c82cc034fe6378,natural,jpeg,"{""quality"": 90}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,jpeg,"{""quality"": 70}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,jpeg,"{""quality"": 50}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,resize,"{""scale"": 0.75}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,resize,"{""scale"": 1.5}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,crop,"{""ratio"": 0.9}",0.11015625,low,0
+21c82cc034fe6378,natural,gaussian_noise,"{""sigma"": 3}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,gaussian_noise,"{""sigma"": 8}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,salt_pepper,"{""amount"": 0.002}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,brightness_contrast,{},0.11249999999999999,low,0
+21c82cc034fe6378,natural,blur,"{""ksize"": 3}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,screenshot,{},0.11249999999999999,low,0
+21c82cc034fe6378,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11015625,low,0
+21c82cc034fe6378,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+21c82cc034fe6378,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11015625,low,0
+21c82cc034fe6378,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11249999999999999,low,0
+30baafefb9321513,natural,clean,{},0.11953124999999999,low,0
+30baafefb9321513,natural,jpeg,"{""quality"": 90}",0.11953124999999999,low,0
+30baafefb9321513,natural,jpeg,"{""quality"": 70}",0.121875,low,0
+30baafefb9321513,natural,jpeg,"{""quality"": 50}",0.121875,low,0
+30baafefb9321513,natural,resize,"{""scale"": 0.75}",0.11953124999999999,low,0
+30baafefb9321513,natural,resize,"{""scale"": 1.5}",0.11953124999999999,low,0
+30baafefb9321513,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+30baafefb9321513,natural,gaussian_noise,"{""sigma"": 3}",0.121875,low,0
+30baafefb9321513,natural,gaussian_noise,"{""sigma"": 8}",0.121875,low,0
+30baafefb9321513,natural,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+30baafefb9321513,natural,brightness_contrast,{},0.11953124999999999,low,0
+30baafefb9321513,natural,blur,"{""ksize"": 3}",0.11953124999999999,low,0
+30baafefb9321513,natural,screenshot,{},0.11953124999999999,low,0
+30baafefb9321513,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+30baafefb9321513,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+30baafefb9321513,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11953124999999999,low,0
+30baafefb9321513,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+30baafefb9321513,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+30baafefb9321513,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.17953124999999998,low,0
+3c572922afd6e52f,natural,clean,{},0.11484375,low,0
+3c572922afd6e52f,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+3c572922afd6e52f,natural,jpeg,"{""quality"": 70}",0.1584375,low,0
+3c572922afd6e52f,natural,jpeg,"{""quality"": 50}",0.11484375,low,0
+3c572922afd6e52f,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+3c572922afd6e52f,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+3c572922afd6e52f,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+3c572922afd6e52f,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+3c572922afd6e52f,natural,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+3c572922afd6e52f,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+3c572922afd6e52f,natural,brightness_contrast,{},0.11484375,low,0
+3c572922afd6e52f,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+3c572922afd6e52f,natural,screenshot,{},0.11484375,low,0
+3c572922afd6e52f,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+3c572922afd6e52f,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11484375,low,0
+3c572922afd6e52f,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+3c572922afd6e52f,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+3c572922afd6e52f,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13734375,low,0
+3c572922afd6e52f,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1209375,low,0
+4630ca8d7ae13b90,natural,clean,{},0.11484375,low,0
+4630ca8d7ae13b90,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+4630ca8d7ae13b90,natural,jpeg,"{""quality"": 70}",0.11249999999999999,low,0
+4630ca8d7ae13b90,natural,jpeg,"{""quality"": 50}",0.11249999999999999,low,0
+4630ca8d7ae13b90,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+4630ca8d7ae13b90,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+4630ca8d7ae13b90,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+4630ca8d7ae13b90,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+4630ca8d7ae13b90,natural,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+4630ca8d7ae13b90,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+4630ca8d7ae13b90,natural,brightness_contrast,{},0.11484375,low,0
+4630ca8d7ae13b90,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+4630ca8d7ae13b90,natural,screenshot,{},0.11484375,low,0
+4630ca8d7ae13b90,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11484375,low,0
+4630ca8d7ae13b90,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+4630ca8d7ae13b90,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+4630ca8d7ae13b90,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+4630ca8d7ae13b90,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+4630ca8d7ae13b90,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11249999999999999,low,0
+4a11507d95982c51,natural,clean,{},0.1265625,low,0
+4a11507d95982c51,natural,jpeg,"{""quality"": 90}",0.1265625,low,0
+4a11507d95982c51,natural,jpeg,"{""quality"": 70}",0.1265625,low,0
+4a11507d95982c51,natural,jpeg,"{""quality"": 50}",0.1265625,low,0
+4a11507d95982c51,natural,resize,"{""scale"": 0.75}",0.1265625,low,0
+4a11507d95982c51,natural,resize,"{""scale"": 1.5}",0.1265625,low,0
+4a11507d95982c51,natural,crop,"{""ratio"": 0.9}",0.12890625,low,0
+4a11507d95982c51,natural,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+4a11507d95982c51,natural,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+4a11507d95982c51,natural,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+4a11507d95982c51,natural,brightness_contrast,{},0.1265625,low,0
+4a11507d95982c51,natural,blur,"{""ksize"": 3}",0.1265625,low,0
+4a11507d95982c51,natural,screenshot,{},0.1265625,low,0
+4a11507d95982c51,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12890625,low,0
+4a11507d95982c51,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+4a11507d95982c51,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+4a11507d95982c51,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+4a11507d95982c51,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12890625,low,0
+4a11507d95982c51,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+626a9e92f0f1ad3f,natural,clean,{},0.13125,low,0
+626a9e92f0f1ad3f,natural,jpeg,"{""quality"": 90}",0.13125,low,0
+626a9e92f0f1ad3f,natural,jpeg,"{""quality"": 70}",0.13125,low,0
+626a9e92f0f1ad3f,natural,jpeg,"{""quality"": 50}",0.13125,low,0
+626a9e92f0f1ad3f,natural,resize,"{""scale"": 0.75}",0.13125,low,0
+626a9e92f0f1ad3f,natural,resize,"{""scale"": 1.5}",0.13125,low,0
+626a9e92f0f1ad3f,natural,crop,"{""ratio"": 0.9}",0.13125,low,0
+626a9e92f0f1ad3f,natural,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+626a9e92f0f1ad3f,natural,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+626a9e92f0f1ad3f,natural,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+626a9e92f0f1ad3f,natural,brightness_contrast,{},0.13125,low,0
+626a9e92f0f1ad3f,natural,blur,"{""ksize"": 3}",0.13125,low,0
+626a9e92f0f1ad3f,natural,screenshot,{},0.13125,low,0
+626a9e92f0f1ad3f,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+626a9e92f0f1ad3f,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13125,low,0
+626a9e92f0f1ad3f,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+626a9e92f0f1ad3f,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+626a9e92f0f1ad3f,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+626a9e92f0f1ad3f,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13125,low,0
+724dffd3acbaa531,natural,clean,{},0.11484375,low,0
+724dffd3acbaa531,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+724dffd3acbaa531,natural,jpeg,"{""quality"": 70}",0.11484375,low,0
+724dffd3acbaa531,natural,jpeg,"{""quality"": 50}",0.11484375,low,0
+724dffd3acbaa531,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+724dffd3acbaa531,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+724dffd3acbaa531,natural,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+724dffd3acbaa531,natural,gaussian_noise,"{""sigma"": 3}",0.11249999999999999,low,0
+724dffd3acbaa531,natural,gaussian_noise,"{""sigma"": 8}",0.11249999999999999,low,0
+724dffd3acbaa531,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+724dffd3acbaa531,natural,brightness_contrast,{},0.11249999999999999,low,0
+724dffd3acbaa531,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+724dffd3acbaa531,natural,screenshot,{},0.11484375,low,0
+724dffd3acbaa531,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+724dffd3acbaa531,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11484375,low,0
+724dffd3acbaa531,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11249999999999999,low,0
+724dffd3acbaa531,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+724dffd3acbaa531,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+724dffd3acbaa531,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11484375,low,0
+add672aa2fd781cf,natural,clean,{},0.1265625,low,0
+add672aa2fd781cf,natural,jpeg,"{""quality"": 90}",0.1265625,low,0
+add672aa2fd781cf,natural,jpeg,"{""quality"": 70}",0.1265625,low,0
+add672aa2fd781cf,natural,jpeg,"{""quality"": 50}",0.1265625,low,0
+add672aa2fd781cf,natural,resize,"{""scale"": 0.75}",0.1265625,low,0
+add672aa2fd781cf,natural,resize,"{""scale"": 1.5}",0.1265625,low,0
+add672aa2fd781cf,natural,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+add672aa2fd781cf,natural,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+add672aa2fd781cf,natural,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+add672aa2fd781cf,natural,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+add672aa2fd781cf,natural,brightness_contrast,{},0.1265625,low,0
+add672aa2fd781cf,natural,blur,"{""ksize"": 3}",0.1265625,low,0
+add672aa2fd781cf,natural,screenshot,{},0.14437499999999998,low,0
+add672aa2fd781cf,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+add672aa2fd781cf,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+add672aa2fd781cf,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+add672aa2fd781cf,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+add672aa2fd781cf,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+add672aa2fd781cf,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+c2bd0d98122dd0ae,natural,clean,{},0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,jpeg,"{""quality"": 90}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+c2bd0d98122dd0ae,natural,jpeg,"{""quality"": 50}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,resize,"{""scale"": 0.75}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,resize,"{""scale"": 1.5}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+c2bd0d98122dd0ae,natural,gaussian_noise,"{""sigma"": 3}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,gaussian_noise,"{""sigma"": 8}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+c2bd0d98122dd0ae,natural,brightness_contrast,{},0.1171875,low,0
+c2bd0d98122dd0ae,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+c2bd0d98122dd0ae,natural,screenshot,{},0.17484375,low,0
+c2bd0d98122dd0ae,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+c2bd0d98122dd0ae,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+c2bd0d98122dd0ae,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.17484375,low,0
+c2bd0d98122dd0ae,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+c2bd0d98122dd0ae,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+c2bd0d98122dd0ae,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+db611cb531518875,natural,clean,{},0.13125,low,0
+db611cb531518875,natural,jpeg,"{""quality"": 90}",0.13125,low,0
+db611cb531518875,natural,jpeg,"{""quality"": 70}",0.13125,low,0
+db611cb531518875,natural,jpeg,"{""quality"": 50}",0.13125,low,0
+db611cb531518875,natural,resize,"{""scale"": 0.75}",0.13125,low,0
+db611cb531518875,natural,resize,"{""scale"": 1.5}",0.13125,low,0
+db611cb531518875,natural,crop,"{""ratio"": 0.9}",0.12890625,low,0
+db611cb531518875,natural,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+db611cb531518875,natural,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+db611cb531518875,natural,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+db611cb531518875,natural,brightness_contrast,{},0.13125,low,0
+db611cb531518875,natural,blur,"{""ksize"": 3}",0.13125,low,0
+db611cb531518875,natural,screenshot,{},0.13125,low,0
+db611cb531518875,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12890625,low,0
+db611cb531518875,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13125,low,0
+db611cb531518875,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+db611cb531518875,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+db611cb531518875,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12890625,low,0
+db611cb531518875,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13125,low,0
+29c0333ddb1cd80b,natural,clean,{},0.11484375,low,0
+29c0333ddb1cd80b,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+29c0333ddb1cd80b,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+29c0333ddb1cd80b,natural,jpeg,"{""quality"": 50}",0.12796875,low,0
+29c0333ddb1cd80b,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+29c0333ddb1cd80b,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+29c0333ddb1cd80b,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+29c0333ddb1cd80b,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+29c0333ddb1cd80b,natural,gaussian_noise,"{""sigma"": 8}",0.1584375,low,0
+29c0333ddb1cd80b,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+29c0333ddb1cd80b,natural,brightness_contrast,{},0.1171875,low,0
+29c0333ddb1cd80b,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+29c0333ddb1cd80b,natural,screenshot,{},0.1171875,low,0
+29c0333ddb1cd80b,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11484375,low,0
+29c0333ddb1cd80b,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+29c0333ddb1cd80b,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+29c0333ddb1cd80b,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11484375,low,0
+29c0333ddb1cd80b,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+29c0333ddb1cd80b,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+2c7b2b87f360aa73,natural,clean,{},0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,jpeg,"{""quality"": 90}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,jpeg,"{""quality"": 70}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,jpeg,"{""quality"": 50}",0.1584375,low,0
+2c7b2b87f360aa73,natural,resize,"{""scale"": 0.75}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,resize,"{""scale"": 1.5}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,crop,"{""ratio"": 0.9}",0.11015625,low,0
+2c7b2b87f360aa73,natural,gaussian_noise,"{""sigma"": 3}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,gaussian_noise,"{""sigma"": 8}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,salt_pepper,"{""amount"": 0.002}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,brightness_contrast,{},0.11015625,low,0
+2c7b2b87f360aa73,natural,blur,"{""ksize"": 3}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,screenshot,{},0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11015625,low,0
+2c7b2b87f360aa73,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.16546875,low,0
+2c7b2b87f360aa73,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+2c7b2b87f360aa73,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11015625,low,0
+2c7b2b87f360aa73,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11249999999999999,low,0
+2edc52ad9a280c54,natural,clean,{},0.1171875,low,0
+2edc52ad9a280c54,natural,jpeg,"{""quality"": 90}",0.1171875,low,0
+2edc52ad9a280c54,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+2edc52ad9a280c54,natural,jpeg,"{""quality"": 50}",0.1171875,low,0
+2edc52ad9a280c54,natural,resize,"{""scale"": 0.75}",0.1171875,low,0
+2edc52ad9a280c54,natural,resize,"{""scale"": 1.5}",0.1171875,low,0
+2edc52ad9a280c54,natural,crop,"{""ratio"": 0.9}",0.11249999999999999,low,0
+2edc52ad9a280c54,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+2edc52ad9a280c54,natural,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+2edc52ad9a280c54,natural,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+2edc52ad9a280c54,natural,brightness_contrast,{},0.11484375,low,0
+2edc52ad9a280c54,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+2edc52ad9a280c54,natural,screenshot,{},0.1171875,low,0
+2edc52ad9a280c54,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+2edc52ad9a280c54,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+2edc52ad9a280c54,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+2edc52ad9a280c54,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1171875,low,0
+2edc52ad9a280c54,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+2edc52ad9a280c54,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13265624999999998,low,0
+38228a30dc666a2d,natural,clean,{},0.12421874999999999,low,0
+38228a30dc666a2d,natural,jpeg,"{""quality"": 90}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,jpeg,"{""quality"": 70}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,resize,"{""scale"": 1.5}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+38228a30dc666a2d,natural,gaussian_noise,"{""sigma"": 3}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,gaussian_noise,"{""sigma"": 8}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,salt_pepper,"{""amount"": 0.002}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,brightness_contrast,{},0.12421874999999999,low,0
+38228a30dc666a2d,natural,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,screenshot,{},0.12421874999999999,low,0
+38228a30dc666a2d,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+38228a30dc666a2d,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+38228a30dc666a2d,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+38228a30dc666a2d,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+4da44898794d577a,natural,clean,{},0.11953124999999999,low,0
+4da44898794d577a,natural,jpeg,"{""quality"": 90}",0.11953124999999999,low,0
+4da44898794d577a,natural,jpeg,"{""quality"": 70}",0.11953124999999999,low,0
+4da44898794d577a,natural,jpeg,"{""quality"": 50}",0.11953124999999999,low,0
+4da44898794d577a,natural,resize,"{""scale"": 0.75}",0.11953124999999999,low,0
+4da44898794d577a,natural,resize,"{""scale"": 1.5}",0.11953124999999999,low,0
+4da44898794d577a,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+4da44898794d577a,natural,gaussian_noise,"{""sigma"": 3}",0.11953124999999999,low,0
+4da44898794d577a,natural,gaussian_noise,"{""sigma"": 8}",0.11953124999999999,low,0
+4da44898794d577a,natural,salt_pepper,"{""amount"": 0.002}",0.11953124999999999,low,0
+4da44898794d577a,natural,brightness_contrast,{},0.3125,low,0
+4da44898794d577a,natural,blur,"{""ksize"": 3}",0.11953124999999999,low,0
+4da44898794d577a,natural,screenshot,{},0.11953124999999999,low,0
+4da44898794d577a,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+4da44898794d577a,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+4da44898794d577a,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11953124999999999,low,0
+4da44898794d577a,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+4da44898794d577a,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+4da44898794d577a,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11953124999999999,low,0
+629e7830752a5d81,natural,clean,{},0.12421874999999999,low,0
+629e7830752a5d81,natural,jpeg,"{""quality"": 90}",0.12421874999999999,low,0
+629e7830752a5d81,natural,jpeg,"{""quality"": 70}",0.17015625,low,0
+629e7830752a5d81,natural,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+629e7830752a5d81,natural,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+629e7830752a5d81,natural,resize,"{""scale"": 1.5}",0.12421874999999999,low,0
+629e7830752a5d81,natural,crop,"{""ratio"": 0.9}",0.11953124999999999,low,0
+629e7830752a5d81,natural,gaussian_noise,"{""sigma"": 3}",0.12421874999999999,low,0
+629e7830752a5d81,natural,gaussian_noise,"{""sigma"": 8}",0.12421874999999999,low,0
+629e7830752a5d81,natural,salt_pepper,"{""amount"": 0.002}",0.12421874999999999,low,0
+629e7830752a5d81,natural,brightness_contrast,{},0.12421874999999999,low,0
+629e7830752a5d81,natural,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+629e7830752a5d81,natural,screenshot,{},0.12421874999999999,low,0
+629e7830752a5d81,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+629e7830752a5d81,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+629e7830752a5d81,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12421874999999999,low,0
+629e7830752a5d81,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+629e7830752a5d81,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+629e7830752a5d81,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+97aca8591fdbe190,natural,clean,{},0.11953124999999999,low,0
+97aca8591fdbe190,natural,jpeg,"{""quality"": 90}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,jpeg,"{""quality"": 70}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,jpeg,"{""quality"": 50}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,resize,"{""scale"": 0.75}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,resize,"{""scale"": 1.5}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+97aca8591fdbe190,natural,gaussian_noise,"{""sigma"": 3}",0.121875,low,0
+97aca8591fdbe190,natural,gaussian_noise,"{""sigma"": 8}",0.121875,low,0
+97aca8591fdbe190,natural,salt_pepper,"{""amount"": 0.002}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,brightness_contrast,{},0.11953124999999999,low,0
+97aca8591fdbe190,natural,blur,"{""ksize"": 3}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,screenshot,{},0.11953124999999999,low,0
+97aca8591fdbe190,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+97aca8591fdbe190,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.121875,low,0
+97aca8591fdbe190,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+97aca8591fdbe190,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+97aca8591fdbe190,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11953124999999999,low,0
+9af30a89fe5988e2,natural,clean,{},0.10546875,low,0
+9af30a89fe5988e2,natural,jpeg,"{""quality"": 90}",0.10546875,low,0
+9af30a89fe5988e2,natural,jpeg,"{""quality"": 70}",0.10546875,low,0
+9af30a89fe5988e2,natural,jpeg,"{""quality"": 50}",0.10546875,low,0
+9af30a89fe5988e2,natural,resize,"{""scale"": 0.75}",0.10546875,low,0
+9af30a89fe5988e2,natural,resize,"{""scale"": 1.5}",0.10546875,low,0
+9af30a89fe5988e2,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+9af30a89fe5988e2,natural,gaussian_noise,"{""sigma"": 3}",0.10546875,low,0
+9af30a89fe5988e2,natural,gaussian_noise,"{""sigma"": 8}",0.10546875,low,0
+9af30a89fe5988e2,natural,salt_pepper,"{""amount"": 0.002}",0.16078125,low,0
+9af30a89fe5988e2,natural,brightness_contrast,{},0.10546875,low,0
+9af30a89fe5988e2,natural,blur,"{""ksize"": 3}",0.10546875,low,0
+9af30a89fe5988e2,natural,screenshot,{},0.10546875,low,0
+9af30a89fe5988e2,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11484375,low,0
+9af30a89fe5988e2,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.10546875,low,0
+9af30a89fe5988e2,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.10546875,low,0
+9af30a89fe5988e2,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.10546875,low,0
+9af30a89fe5988e2,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+9af30a89fe5988e2,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.10546875,low,0
+e5b29d7858f1c1ef,natural,clean,{},0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,jpeg,"{""quality"": 90}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,jpeg,"{""quality"": 70}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,jpeg,"{""quality"": 50}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,resize,"{""scale"": 0.75}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,resize,"{""scale"": 1.5}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,crop,"{""ratio"": 0.9}",0.11015625,low,0
+e5b29d7858f1c1ef,natural,gaussian_noise,"{""sigma"": 3}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,gaussian_noise,"{""sigma"": 8}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,salt_pepper,"{""amount"": 0.002}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,brightness_contrast,{},0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,blur,"{""ksize"": 3}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,screenshot,{},0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11015625,low,0
+e5b29d7858f1c1ef,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.10781249999999999,low,0
+e5b29d7858f1c1ef,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11015625,low,0
+e5b29d7858f1c1ef,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.10781249999999999,low,0
+f17d002c18cb4446,natural,clean,{},0.18421875,low,0
+f17d002c18cb4446,natural,jpeg,"{""quality"": 90}",0.18421875,low,0
+f17d002c18cb4446,natural,jpeg,"{""quality"": 70}",0.1265625,low,0
+f17d002c18cb4446,natural,jpeg,"{""quality"": 50}",0.1265625,low,0
+f17d002c18cb4446,natural,resize,"{""scale"": 0.75}",0.1265625,low,0
+f17d002c18cb4446,natural,resize,"{""scale"": 1.5}",0.18421875,low,0
+f17d002c18cb4446,natural,crop,"{""ratio"": 0.9}",0.13125,low,0
+f17d002c18cb4446,natural,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+f17d002c18cb4446,natural,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+f17d002c18cb4446,natural,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+f17d002c18cb4446,natural,brightness_contrast,{},0.18421875,low,0
+f17d002c18cb4446,natural,blur,"{""ksize"": 3}",0.1265625,low,0
+f17d002c18cb4446,natural,screenshot,{},0.1265625,low,0
+f17d002c18cb4446,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+f17d002c18cb4446,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.18421875,low,0
+f17d002c18cb4446,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+f17d002c18cb4446,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+f17d002c18cb4446,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+f17d002c18cb4446,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+128d5df4aafab995,natural,clean,{},0.11484375,low,0
+128d5df4aafab995,natural,jpeg,"{""quality"": 90}",0.11484375,low,0
+128d5df4aafab995,natural,jpeg,"{""quality"": 70}",0.31015625,low,0
+128d5df4aafab995,natural,jpeg,"{""quality"": 50}",0.31015625,low,0
+128d5df4aafab995,natural,resize,"{""scale"": 0.75}",0.11484375,low,0
+128d5df4aafab995,natural,resize,"{""scale"": 1.5}",0.11484375,low,0
+128d5df4aafab995,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+128d5df4aafab995,natural,gaussian_noise,"{""sigma"": 3}",0.11484375,low,0
+128d5df4aafab995,natural,gaussian_noise,"{""sigma"": 8}",0.11484375,low,0
+128d5df4aafab995,natural,salt_pepper,"{""amount"": 0.002}",0.11484375,low,0
+128d5df4aafab995,natural,brightness_contrast,{},0.11484375,low,0
+128d5df4aafab995,natural,blur,"{""ksize"": 3}",0.11484375,low,0
+128d5df4aafab995,natural,screenshot,{},0.11484375,low,0
+128d5df4aafab995,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.31015625,low,0
+128d5df4aafab995,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.31015625,low,0
+128d5df4aafab995,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11484375,low,0
+128d5df4aafab995,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.31015625,low,0
+128d5df4aafab995,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.31015625,low,0
+128d5df4aafab995,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.31015625,low,0
+1d1389c86cf2d9c6,natural,clean,{},0.121875,low,0
+1d1389c86cf2d9c6,natural,jpeg,"{""quality"": 90}",0.121875,low,0
+1d1389c86cf2d9c6,natural,jpeg,"{""quality"": 70}",0.121875,low,0
+1d1389c86cf2d9c6,natural,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,resize,"{""scale"": 1.5}",0.121875,low,0
+1d1389c86cf2d9c6,natural,crop,"{""ratio"": 0.9}",0.1265625,low,0
+1d1389c86cf2d9c6,natural,gaussian_noise,"{""sigma"": 3}",0.15609374999999998,low,0
+1d1389c86cf2d9c6,natural,gaussian_noise,"{""sigma"": 8}",0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+1d1389c86cf2d9c6,natural,brightness_contrast,{},0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,blur,"{""ksize"": 3}",0.121875,low,0
+1d1389c86cf2d9c6,natural,screenshot,{},0.121875,low,0
+1d1389c86cf2d9c6,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12421874999999999,low,0
+1d1389c86cf2d9c6,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.121875,low,0
+1d1389c86cf2d9c6,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1265625,low,0
+1d1389c86cf2d9c6,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+880238431b7ee548,natural,clean,{},0.13828125,low,0
+880238431b7ee548,natural,jpeg,"{""quality"": 90}",0.13828125,low,0
+880238431b7ee548,natural,jpeg,"{""quality"": 70}",0.13828125,low,0
+880238431b7ee548,natural,jpeg,"{""quality"": 50}",0.13828125,low,0
+880238431b7ee548,natural,resize,"{""scale"": 0.75}",0.13828125,low,0
+880238431b7ee548,natural,resize,"{""scale"": 1.5}",0.13828125,low,0
+880238431b7ee548,natural,crop,"{""ratio"": 0.9}",0.13828125,low,0
+880238431b7ee548,natural,gaussian_noise,"{""sigma"": 3}",0.13828125,low,0
+880238431b7ee548,natural,gaussian_noise,"{""sigma"": 8}",0.13828125,low,0
+880238431b7ee548,natural,salt_pepper,"{""amount"": 0.002}",0.13828125,low,0
+880238431b7ee548,natural,brightness_contrast,{},0.13828125,low,0
+880238431b7ee548,natural,blur,"{""ksize"": 3}",0.13828125,low,0
+880238431b7ee548,natural,screenshot,{},0.13828125,low,0
+880238431b7ee548,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13828125,low,0
+880238431b7ee548,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.13828125,low,0
+880238431b7ee548,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13828125,low,0
+880238431b7ee548,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13828125,low,0
+880238431b7ee548,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13828125,low,0
+880238431b7ee548,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13828125,low,0
+910ba63adc45df7b,natural,clean,{},0.140625,low,0
+910ba63adc45df7b,natural,jpeg,"{""quality"": 90}",0.13828125,low,0
+910ba63adc45df7b,natural,jpeg,"{""quality"": 70}",0.140625,low,0
+910ba63adc45df7b,natural,jpeg,"{""quality"": 50}",0.140625,low,0
+910ba63adc45df7b,natural,resize,"{""scale"": 0.75}",0.140625,low,0
+910ba63adc45df7b,natural,resize,"{""scale"": 1.5}",0.13828125,low,0
+910ba63adc45df7b,natural,crop,"{""ratio"": 0.9}",0.140625,low,0
+910ba63adc45df7b,natural,gaussian_noise,"{""sigma"": 3}",0.13828125,low,0
+910ba63adc45df7b,natural,gaussian_noise,"{""sigma"": 8}",0.13828125,low,0
+910ba63adc45df7b,natural,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+910ba63adc45df7b,natural,brightness_contrast,{},0.13828125,low,0
+910ba63adc45df7b,natural,blur,"{""ksize"": 3}",0.13828125,low,0
+910ba63adc45df7b,natural,screenshot,{},0.140625,low,0
+910ba63adc45df7b,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+910ba63adc45df7b,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.140625,low,0
+910ba63adc45df7b,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13828125,low,0
+910ba63adc45df7b,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13828125,low,0
+910ba63adc45df7b,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+910ba63adc45df7b,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.140625,low,0
+92fac0c535c90276,natural,clean,{},0.12421874999999999,low,0
+92fac0c535c90276,natural,jpeg,"{""quality"": 90}",0.12421874999999999,low,0
+92fac0c535c90276,natural,jpeg,"{""quality"": 70}",0.12421874999999999,low,0
+92fac0c535c90276,natural,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+92fac0c535c90276,natural,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+92fac0c535c90276,natural,resize,"{""scale"": 1.5}",0.12421874999999999,low,0
+92fac0c535c90276,natural,crop,"{""ratio"": 0.9}",0.11953124999999999,low,0
+92fac0c535c90276,natural,gaussian_noise,"{""sigma"": 3}",0.121875,low,0
+92fac0c535c90276,natural,gaussian_noise,"{""sigma"": 8}",0.121875,low,0
+92fac0c535c90276,natural,salt_pepper,"{""amount"": 0.002}",0.12421874999999999,low,0
+92fac0c535c90276,natural,brightness_contrast,{},0.12421874999999999,low,0
+92fac0c535c90276,natural,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+92fac0c535c90276,natural,screenshot,{},0.12421874999999999,low,0
+92fac0c535c90276,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+92fac0c535c90276,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+92fac0c535c90276,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.121875,low,0
+92fac0c535c90276,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+92fac0c535c90276,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+92fac0c535c90276,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+9a3f3efd3cbef6dc,natural,clean,{},0.1171875,low,0
+9a3f3efd3cbef6dc,natural,jpeg,"{""quality"": 90}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,jpeg,"{""quality"": 50}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,resize,"{""scale"": 0.75}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,resize,"{""scale"": 1.5}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,crop,"{""ratio"": 0.9}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,brightness_contrast,{},0.1171875,low,0
+9a3f3efd3cbef6dc,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,screenshot,{},0.1171875,low,0
+9a3f3efd3cbef6dc,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+9a3f3efd3cbef6dc,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+9b4c33e28b3b35a4,natural,clean,{},0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,jpeg,"{""quality"": 90}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,jpeg,"{""quality"": 70}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,jpeg,"{""quality"": 50}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,resize,"{""scale"": 0.75}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,resize,"{""scale"": 1.5}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,crop,"{""ratio"": 0.9}",0.11484375,low,0
+9b4c33e28b3b35a4,natural,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+9b4c33e28b3b35a4,natural,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+9b4c33e28b3b35a4,natural,salt_pepper,"{""amount"": 0.002}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,brightness_contrast,{},0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+9b4c33e28b3b35a4,natural,screenshot,{},0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11484375,low,0
+9b4c33e28b3b35a4,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+9b4c33e28b3b35a4,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1171875,low,0
+9b4c33e28b3b35a4,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1171875,low,0
+9b4c33e28b3b35a4,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11484375,low,0
+9b4c33e28b3b35a4,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11953124999999999,low,0
+a99fa885a75b62ba,natural,clean,{},0.140625,low,0
+a99fa885a75b62ba,natural,jpeg,"{""quality"": 90}",0.140625,low,0
+a99fa885a75b62ba,natural,jpeg,"{""quality"": 70}",0.140625,low,0
+a99fa885a75b62ba,natural,jpeg,"{""quality"": 50}",0.140625,low,0
+a99fa885a75b62ba,natural,resize,"{""scale"": 0.75}",0.140625,low,0
+a99fa885a75b62ba,natural,resize,"{""scale"": 1.5}",0.140625,low,0
+a99fa885a75b62ba,natural,crop,"{""ratio"": 0.9}",0.140625,low,0
+a99fa885a75b62ba,natural,gaussian_noise,"{""sigma"": 3}",0.140625,low,0
+a99fa885a75b62ba,natural,gaussian_noise,"{""sigma"": 8}",0.140625,low,0
+a99fa885a75b62ba,natural,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+a99fa885a75b62ba,natural,brightness_contrast,{},0.140625,low,0
+a99fa885a75b62ba,natural,blur,"{""ksize"": 3}",0.140625,low,0
+a99fa885a75b62ba,natural,screenshot,{},0.140625,low,0
+a99fa885a75b62ba,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+a99fa885a75b62ba,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.140625,low,0
+a99fa885a75b62ba,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.140625,low,0
+a99fa885a75b62ba,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.140625,low,0
+a99fa885a75b62ba,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+a99fa885a75b62ba,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.140625,low,0
+e4d2e5683defa906,natural,clean,{},0.140625,low,0
+e4d2e5683defa906,natural,jpeg,"{""quality"": 90}",0.140625,low,0
+e4d2e5683defa906,natural,jpeg,"{""quality"": 70}",0.140625,low,0
+e4d2e5683defa906,natural,jpeg,"{""quality"": 50}",0.140625,low,0
+e4d2e5683defa906,natural,resize,"{""scale"": 0.75}",0.140625,low,0
+e4d2e5683defa906,natural,resize,"{""scale"": 1.5}",0.140625,low,0
+e4d2e5683defa906,natural,crop,"{""ratio"": 0.9}",0.140625,low,0
+e4d2e5683defa906,natural,gaussian_noise,"{""sigma"": 3}",0.140625,low,0
+e4d2e5683defa906,natural,gaussian_noise,"{""sigma"": 8}",0.140625,low,0
+e4d2e5683defa906,natural,salt_pepper,"{""amount"": 0.002}",0.140625,low,0
+e4d2e5683defa906,natural,brightness_contrast,{},0.140625,low,0
+e4d2e5683defa906,natural,blur,"{""ksize"": 3}",0.140625,low,0
+e4d2e5683defa906,natural,screenshot,{},0.140625,low,0
+e4d2e5683defa906,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.140625,low,0
+e4d2e5683defa906,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.140625,low,0
+e4d2e5683defa906,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.140625,low,0
+e4d2e5683defa906,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.140625,low,0
+e4d2e5683defa906,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.140625,low,0
+e4d2e5683defa906,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.140625,low,0
+f39927f1b35270ed,natural,clean,{},0.12890625,low,0
+f39927f1b35270ed,natural,jpeg,"{""quality"": 90}",0.12890625,low,0
+f39927f1b35270ed,natural,jpeg,"{""quality"": 70}",0.12890625,low,0
+f39927f1b35270ed,natural,jpeg,"{""quality"": 50}",0.12890625,low,0
+f39927f1b35270ed,natural,resize,"{""scale"": 0.75}",0.12890625,low,0
+f39927f1b35270ed,natural,resize,"{""scale"": 1.5}",0.12890625,low,0
+f39927f1b35270ed,natural,crop,"{""ratio"": 0.9}",0.12890625,low,0
+f39927f1b35270ed,natural,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+f39927f1b35270ed,natural,gaussian_noise,"{""sigma"": 8}",0.12890625,low,0
+f39927f1b35270ed,natural,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+f39927f1b35270ed,natural,brightness_contrast,{},0.12890625,low,0
+f39927f1b35270ed,natural,blur,"{""ksize"": 3}",0.12890625,low,0
+f39927f1b35270ed,natural,screenshot,{},0.12890625,low,0
+f39927f1b35270ed,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12890625,low,0
+f39927f1b35270ed,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+f39927f1b35270ed,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+f39927f1b35270ed,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+f39927f1b35270ed,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12890625,low,0
+f39927f1b35270ed,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+067edff68af1076c,natural,clean,{},0.11249999999999999,low,0
+067edff68af1076c,natural,jpeg,"{""quality"": 90}",0.11249999999999999,low,0
+067edff68af1076c,natural,jpeg,"{""quality"": 70}",0.11249999999999999,low,0
+067edff68af1076c,natural,jpeg,"{""quality"": 50}",0.11249999999999999,low,0
+067edff68af1076c,natural,resize,"{""scale"": 0.75}",0.11249999999999999,low,0
+067edff68af1076c,natural,resize,"{""scale"": 1.5}",0.11249999999999999,low,0
+067edff68af1076c,natural,crop,"{""ratio"": 0.9}",0.1171875,low,0
+067edff68af1076c,natural,gaussian_noise,"{""sigma"": 3}",0.11249999999999999,low,0
+067edff68af1076c,natural,gaussian_noise,"{""sigma"": 8}",0.11249999999999999,low,0
+067edff68af1076c,natural,salt_pepper,"{""amount"": 0.002}",0.11249999999999999,low,0
+067edff68af1076c,natural,brightness_contrast,{},0.11249999999999999,low,0
+067edff68af1076c,natural,blur,"{""ksize"": 3}",0.11249999999999999,low,0
+067edff68af1076c,natural,screenshot,{},0.11249999999999999,low,0
+067edff68af1076c,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1171875,low,0
+067edff68af1076c,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+067edff68af1076c,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.11249999999999999,low,0
+067edff68af1076c,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.11249999999999999,low,0
+067edff68af1076c,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1171875,low,0
+067edff68af1076c,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.11249999999999999,low,0
+2985c959f546da00,natural,clean,{},0.121875,low,0
+2985c959f546da00,natural,jpeg,"{""quality"": 90}",0.121875,low,0
+2985c959f546da00,natural,jpeg,"{""quality"": 70}",0.31953125,low,0
+2985c959f546da00,natural,jpeg,"{""quality"": 50}",0.321875,low,0
+2985c959f546da00,natural,resize,"{""scale"": 0.75}",0.15375,low,0
+2985c959f546da00,natural,resize,"{""scale"": 1.5}",0.121875,low,0
+2985c959f546da00,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+2985c959f546da00,natural,gaussian_noise,"{""sigma"": 3}",0.121875,low,0
+2985c959f546da00,natural,gaussian_noise,"{""sigma"": 8}",0.121875,low,0
+2985c959f546da00,natural,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+2985c959f546da00,natural,brightness_contrast,{},0.121875,low,0
+2985c959f546da00,natural,blur,"{""ksize"": 3}",0.15375,low,0
+2985c959f546da00,natural,screenshot,{},0.121875,low,0
+2985c959f546da00,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.31953125,low,0
+2985c959f546da00,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+2985c959f546da00,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.121875,low,0
+2985c959f546da00,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.321875,low,0
+2985c959f546da00,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+2985c959f546da00,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.121875,low,0
+308d7f488ef61491,natural,clean,{},0.10781249999999999,low,0
+308d7f488ef61491,natural,jpeg,"{""quality"": 90}",0.10781249999999999,low,0
+308d7f488ef61491,natural,jpeg,"{""quality"": 70}",0.10781249999999999,low,0
+308d7f488ef61491,natural,jpeg,"{""quality"": 50}",0.10781249999999999,low,0
+308d7f488ef61491,natural,resize,"{""scale"": 0.75}",0.10781249999999999,low,0
+308d7f488ef61491,natural,resize,"{""scale"": 1.5}",0.10781249999999999,low,0
+308d7f488ef61491,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+308d7f488ef61491,natural,gaussian_noise,"{""sigma"": 3}",0.10781249999999999,low,0
+308d7f488ef61491,natural,gaussian_noise,"{""sigma"": 8}",0.10781249999999999,low,0
+308d7f488ef61491,natural,salt_pepper,"{""amount"": 0.002}",0.10781249999999999,low,0
+308d7f488ef61491,natural,brightness_contrast,{},0.10781249999999999,low,0
+308d7f488ef61491,natural,blur,"{""ksize"": 3}",0.10781249999999999,low,0
+308d7f488ef61491,natural,screenshot,{},0.10781249999999999,low,0
+308d7f488ef61491,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+308d7f488ef61491,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.10781249999999999,low,0
+308d7f488ef61491,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.10781249999999999,low,0
+308d7f488ef61491,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.10781249999999999,low,0
+308d7f488ef61491,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+308d7f488ef61491,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.10781249999999999,low,0
+5a9984bbae871bea,natural,clean,{},0.121875,low,0
+5a9984bbae871bea,natural,jpeg,"{""quality"": 90}",0.121875,low,0
+5a9984bbae871bea,natural,jpeg,"{""quality"": 70}",0.121875,low,0
+5a9984bbae871bea,natural,jpeg,"{""quality"": 50}",0.121875,low,0
+5a9984bbae871bea,natural,resize,"{""scale"": 0.75}",0.121875,low,0
+5a9984bbae871bea,natural,resize,"{""scale"": 1.5}",0.121875,low,0
+5a9984bbae871bea,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+5a9984bbae871bea,natural,gaussian_noise,"{""sigma"": 3}",0.121875,low,0
+5a9984bbae871bea,natural,gaussian_noise,"{""sigma"": 8}",0.121875,low,0
+5a9984bbae871bea,natural,salt_pepper,"{""amount"": 0.002}",0.121875,low,0
+5a9984bbae871bea,natural,brightness_contrast,{},0.121875,low,0
+5a9984bbae871bea,natural,blur,"{""ksize"": 3}",0.121875,low,0
+5a9984bbae871bea,natural,screenshot,{},0.121875,low,0
+5a9984bbae871bea,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+5a9984bbae871bea,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.121875,low,0
+5a9984bbae871bea,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.121875,low,0
+5a9984bbae871bea,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.121875,low,0
+5a9984bbae871bea,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+5a9984bbae871bea,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.121875,low,0
+6a2b65c970c013ef,natural,clean,{},0.1265625,low,0
+6a2b65c970c013ef,natural,jpeg,"{""quality"": 90}",0.1265625,low,0
+6a2b65c970c013ef,natural,jpeg,"{""quality"": 70}",0.1265625,low,0
+6a2b65c970c013ef,natural,jpeg,"{""quality"": 50}",0.31953125,low,0
+6a2b65c970c013ef,natural,resize,"{""scale"": 0.75}",0.1265625,low,0
+6a2b65c970c013ef,natural,resize,"{""scale"": 1.5}",0.1265625,low,0
+6a2b65c970c013ef,natural,crop,"{""ratio"": 0.9}",0.1265625,low,0
+6a2b65c970c013ef,natural,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+6a2b65c970c013ef,natural,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+6a2b65c970c013ef,natural,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+6a2b65c970c013ef,natural,brightness_contrast,{},0.1265625,low,0
+6a2b65c970c013ef,natural,blur,"{""ksize"": 3}",0.181875,low,0
+6a2b65c970c013ef,natural,screenshot,{},0.1265625,low,0
+6a2b65c970c013ef,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.3125,low,0
+6a2b65c970c013ef,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+6a2b65c970c013ef,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+6a2b65c970c013ef,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+6a2b65c970c013ef,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1265625,low,0
+6a2b65c970c013ef,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+947f5d19708be65f,natural,clean,{},0.1171875,low,0
+947f5d19708be65f,natural,jpeg,"{""quality"": 90}",0.1171875,low,0
+947f5d19708be65f,natural,jpeg,"{""quality"": 70}",0.1171875,low,0
+947f5d19708be65f,natural,jpeg,"{""quality"": 50}",0.1171875,low,0
+947f5d19708be65f,natural,resize,"{""scale"": 0.75}",0.1303125,low,0
+947f5d19708be65f,natural,resize,"{""scale"": 1.5}",0.1171875,low,0
+947f5d19708be65f,natural,crop,"{""ratio"": 0.9}",0.11953124999999999,low,0
+947f5d19708be65f,natural,gaussian_noise,"{""sigma"": 3}",0.1171875,low,0
+947f5d19708be65f,natural,gaussian_noise,"{""sigma"": 8}",0.1171875,low,0
+947f5d19708be65f,natural,salt_pepper,"{""amount"": 0.002}",0.1171875,low,0
+947f5d19708be65f,natural,brightness_contrast,{},0.1171875,low,0
+947f5d19708be65f,natural,blur,"{""ksize"": 3}",0.1171875,low,0
+947f5d19708be65f,natural,screenshot,{},0.1171875,low,0
+947f5d19708be65f,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+947f5d19708be65f,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1171875,low,0
+947f5d19708be65f,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1171875,low,0
+947f5d19708be65f,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1171875,low,0
+947f5d19708be65f,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.11953124999999999,low,0
+947f5d19708be65f,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1171875,low,0
+9ae417b8500400c5,natural,clean,{},0.1265625,low,0
+9ae417b8500400c5,natural,jpeg,"{""quality"": 90}",0.1265625,low,0
+9ae417b8500400c5,natural,jpeg,"{""quality"": 70}",0.1265625,low,0
+9ae417b8500400c5,natural,jpeg,"{""quality"": 50}",0.1265625,low,0
+9ae417b8500400c5,natural,resize,"{""scale"": 0.75}",0.1265625,low,0
+9ae417b8500400c5,natural,resize,"{""scale"": 1.5}",0.1265625,low,0
+9ae417b8500400c5,natural,crop,"{""ratio"": 0.9}",0.121875,low,0
+9ae417b8500400c5,natural,gaussian_noise,"{""sigma"": 3}",0.12421874999999999,low,0
+9ae417b8500400c5,natural,gaussian_noise,"{""sigma"": 8}",0.12421874999999999,low,0
+9ae417b8500400c5,natural,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+9ae417b8500400c5,natural,brightness_contrast,{},0.1265625,low,0
+9ae417b8500400c5,natural,blur,"{""ksize"": 3}",0.1265625,low,0
+9ae417b8500400c5,natural,screenshot,{},0.1265625,low,0
+9ae417b8500400c5,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.121875,low,0
+9ae417b8500400c5,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.1265625,low,0
+9ae417b8500400c5,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12421874999999999,low,0
+9ae417b8500400c5,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.1265625,low,0
+9ae417b8500400c5,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.121875,low,0
+9ae417b8500400c5,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.1265625,low,0
+a6cf54b41166d8be,natural,clean,{},0.12421874999999999,low,0
+a6cf54b41166d8be,natural,jpeg,"{""quality"": 90}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,jpeg,"{""quality"": 70}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,jpeg,"{""quality"": 50}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,resize,"{""scale"": 0.75}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,resize,"{""scale"": 1.5}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,crop,"{""ratio"": 0.9}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,gaussian_noise,"{""sigma"": 3}",0.1265625,low,0
+a6cf54b41166d8be,natural,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+a6cf54b41166d8be,natural,salt_pepper,"{""amount"": 0.002}",0.1265625,low,0
+a6cf54b41166d8be,natural,brightness_contrast,{},0.12421874999999999,low,0
+a6cf54b41166d8be,natural,blur,"{""ksize"": 3}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,screenshot,{},0.12421874999999999,low,0
+a6cf54b41166d8be,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.1265625,low,0
+a6cf54b41166d8be,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.12421874999999999,low,0
+a6cf54b41166d8be,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12421874999999999,low,0
+af4778632f20d2af,natural,clean,{},0.12890625,low,0
+af4778632f20d2af,natural,jpeg,"{""quality"": 90}",0.12890625,low,0
+af4778632f20d2af,natural,jpeg,"{""quality"": 70}",0.1584375,low,0
+af4778632f20d2af,natural,jpeg,"{""quality"": 50}",0.12890625,low,0
+af4778632f20d2af,natural,resize,"{""scale"": 0.75}",0.12890625,low,0
+af4778632f20d2af,natural,resize,"{""scale"": 1.5}",0.12890625,low,0
+af4778632f20d2af,natural,crop,"{""ratio"": 0.9}",0.1265625,low,0
+af4778632f20d2af,natural,gaussian_noise,"{""sigma"": 3}",0.12890625,low,0
+af4778632f20d2af,natural,gaussian_noise,"{""sigma"": 8}",0.1265625,low,0
+af4778632f20d2af,natural,salt_pepper,"{""amount"": 0.002}",0.12890625,low,0
+af4778632f20d2af,natural,brightness_contrast,{},0.12890625,low,0
+af4778632f20d2af,natural,blur,"{""ksize"": 3}",0.12890625,low,0
+af4778632f20d2af,natural,screenshot,{},0.12890625,low,0
+af4778632f20d2af,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.1265625,low,0
+af4778632f20d2af,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.12890625,low,0
+af4778632f20d2af,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.12890625,low,0
+af4778632f20d2af,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.12890625,low,0
+af4778632f20d2af,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.1265625,low,0
+af4778632f20d2af,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.12890625,low,0
+f1cde713b14d3254,natural,clean,{},0.13125,low,0
+f1cde713b14d3254,natural,jpeg,"{""quality"": 90}",0.13125,low,0
+f1cde713b14d3254,natural,jpeg,"{""quality"": 70}",0.13125,low,0
+f1cde713b14d3254,natural,jpeg,"{""quality"": 50}",0.13125,low,0
+f1cde713b14d3254,natural,resize,"{""scale"": 0.75}",0.13125,low,0
+f1cde713b14d3254,natural,resize,"{""scale"": 1.5}",0.13125,low,0
+f1cde713b14d3254,natural,crop,"{""ratio"": 0.9}",0.13125,low,0
+f1cde713b14d3254,natural,gaussian_noise,"{""sigma"": 3}",0.13125,low,0
+f1cde713b14d3254,natural,gaussian_noise,"{""sigma"": 8}",0.13125,low,0
+f1cde713b14d3254,natural,salt_pepper,"{""amount"": 0.002}",0.13125,low,0
+f1cde713b14d3254,natural,brightness_contrast,{},0.33125000000000004,low,0
+f1cde713b14d3254,natural,blur,"{""ksize"": 3}",0.13125,low,0
+f1cde713b14d3254,natural,screenshot,{},0.13125,low,0
+f1cde713b14d3254,natural,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",0.13125,low,0
+f1cde713b14d3254,natural,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",0.14203125,low,0
+f1cde713b14d3254,natural,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",0.13125,low,0
+f1cde713b14d3254,natural,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",0.13125,low,0
+f1cde713b14d3254,natural,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",0.13125,low,0
+f1cde713b14d3254,natural,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",0.13125,low,0

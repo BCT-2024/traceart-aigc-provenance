@@ -1,0 +1,27 @@
+{
+  "experiment": "verification_stage_failure_attribution",
+  "alpha": 28.0,
+  "seed": 20260910,
+  "repeat": 4,
+  "carrier": "dwt_dct",
+  "payload_mode": "rs_repeat",
+  "verification_mode": "joint",
+  "content_binding_required": true,
+  "content_binding_threshold": 0.3,
+  "database_records": 200,
+  "registered_images": 200,
+  "attacks": 21,
+  "observations": 4200,
+  "attack_groups": {
+    "single": 3000,
+    "combined": 1200
+  },
+  "first_failure_overall": {
+    "Accepted": 3693,
+    "Payload integrity": 507
+  },
+  "content_binding_methods": {
+    "orb": 4200
+  },
+  "accepted_with_incomplete_fields": 0
+}

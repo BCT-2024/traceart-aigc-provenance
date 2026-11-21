@@ -1,0 +1,5 @@
+﻿method,payload_bits,count,psnr,ssim,jpeg50,crop,blur,screenshot,crop_resize_jpeg
+"Ours (structured + DB, matched subset)",1024,50,40.33388211933787,0.9993015703005318,1.0,0.94,1.0,1.0,0.88
+external dwtDct,1024,50,37.759669052166366,0.9999990922232186,0.0,0.0,0.0,0.0,0.0
+external dwtDctSvd,1024,50,37.68439981486812,0.9999995320444561,0.72,0.0,1.0,1.0,0.0
+RivaGAN (pretrained),32,50,40.47628558872812,0.9999179616118127,1.0,1.0,1.0,1.0,1.0

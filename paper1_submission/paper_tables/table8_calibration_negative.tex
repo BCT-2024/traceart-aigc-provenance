@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\caption{Calibrated trust thresholds, clean negatives, and physical stress tests.}
+\label{tab:calibration-negative}
+\begin{tabular}{>{\raggedright\arraybackslash}p{27mm} >{\raggedright\arraybackslash}p{32mm} >{\raggedright\arraybackslash}p{38mm} >{\raggedright\arraybackslash}p{48mm}}
+\toprule
+Test & Condition & Accepted / tested & Interpretation \\
+\midrule
+Held-out trust & Score >= 0.55 & TPR 97.3\%; FPR 0.00\% & High-confidence operating point \\
+Held-out trust & Score >= 0.32 & TPR 98.0\%; FPR 0.32\% & Medium-or-higher operating point \\
+Clean negatives & Joint verification & 0 / 100 & No observed clean false positives \\
+Physical stress & Screen-capture simulator & 0 / 200 & Current carrier fails \\
+Physical stress & Print-scan simulator & 0 / 200 & Current carrier fails \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\footnotesize Held-out rates aggregate repeated attack observations from 50 held-out negative images. Physical stress tests use 200 registered positives.
+\end{table}

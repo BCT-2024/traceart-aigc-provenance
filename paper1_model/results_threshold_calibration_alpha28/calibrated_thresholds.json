@@ -1,0 +1,59 @@
+{
+  "auc": 0.9992798476454293,
+  "positive_scores": 3800,
+  "negative_scores": 1900,
+  "high_threshold": 0.3228218749999989,
+  "medium_threshold": 0.200625,
+  "calibration": [
+    {
+      "target_fpr": 0.1,
+      "threshold": 0.14296875,
+      "achieved_fpr": 0.10894736842105263,
+      "achieved_tpr": 0.9994736842105263
+    },
+    {
+      "target_fpr": 0.05,
+      "threshold": 0.15,
+      "achieved_fpr": 0.05526315789473684,
+      "achieved_tpr": 0.9992105263157894
+    },
+    {
+      "target_fpr": 0.02,
+      "threshold": 0.18421875,
+      "achieved_fpr": 0.02157894736842105,
+      "achieved_tpr": 0.9986842105263158
+    },
+    {
+      "target_fpr": 0.01,
+      "threshold": 0.200625,
+      "achieved_fpr": 0.01368421052631579,
+      "achieved_tpr": 0.9986842105263158
+    },
+    {
+      "target_fpr": 0.005,
+      "threshold": 0.31015625,
+      "achieved_fpr": 0.008421052631578947,
+      "achieved_tpr": 0.9797368421052631
+    },
+    {
+      "target_fpr": 0.001,
+      "threshold": 0.3228218749999989,
+      "achieved_fpr": 0.0010526315789473684,
+      "achieved_tpr": 0.9794736842105263
+    }
+  ],
+  "current_thresholds": [
+    {
+      "threshold_name": "current_medium",
+      "threshold": 0.55,
+      "fpr": 0.0,
+      "tpr": 0.9718421052631578
+    },
+    {
+      "threshold_name": "current_high",
+      "threshold": 0.75,
+      "fpr": 0.0,
+      "tpr": 0.9718421052631578
+    }
+  ]
+}

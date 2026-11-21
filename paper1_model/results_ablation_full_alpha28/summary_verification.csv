@@ -1,0 +1,4 @@
+﻿group,config,mean_psnr,mean_ssim,clean_success,jpeg50_success,crop_success,noise8_success,blur_success,screenshot_success,false_positive_rate
+verification,db_only,39.652216480718295,0.9989800771511451,1.0,0.995,0.92,0.995,0.98,0.995,0.0
+verification,joint,39.652216480718295,0.9989800771511451,1.0,0.995,0.92,0.995,0.98,0.995,0.0
+verification,watermark_only,39.652216480718295,0.9989800771511451,1.0,0.995,0.92,0.995,0.98,0.995,0.0

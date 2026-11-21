@@ -1,0 +1,116 @@
+{
+  "config": {
+    "images": 11,
+    "positive_samples": 44,
+    "copy_samples": 11,
+    "attacks": [
+      "clean",
+      "jpeg",
+      "real_screen_capture",
+      "print_scan"
+    ],
+    "alpha": 28.0,
+    "repeat": 4,
+    "default_threshold": 0.3
+  },
+  "flatness": {
+    "solid_white": {
+      "gray_std": 0.0,
+      "gray_range": 0,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "solid_gray": {
+      "gray_std": 0.0,
+      "gray_range": 0,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "solid_black": {
+      "gray_std": 0.0,
+      "gray_range": 0,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "solid_red": {
+      "gray_std": 0.0,
+      "gray_range": 0,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "solid_blue": {
+      "gray_std": 0.0,
+      "gray_range": 0,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "low_gradient_gray": {
+      "gray_std": 4.0407999164576,
+      "gray_range": 14,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "low_gradient_sky": {
+      "gray_std": 4.629008437690618,
+      "gray_range": 16,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "large_blocks_similar": {
+      "gray_std": 3.0,
+      "gray_range": 6,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "large_blocks_distinct": {
+      "gray_std": 8.5,
+      "gray_range": 17,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    },
+    "simple_shapes": {
+      "gray_std": 21.4733815018596,
+      "gray_range": 65,
+      "edge_density": 0.00469970703125,
+      "orb_keypoints": 34
+    },
+    "soft_sky": {
+      "gray_std": 24.535046403964223,
+      "gray_range": 99,
+      "edge_density": 0.0,
+      "orb_keypoints": 0
+    }
+  },
+  "fallback_rate_positive": 0.9090909090909091,
+  "recommended_threshold": {
+    "threshold": 0.9,
+    "tpr": 0.75,
+    "fpr": 0.0,
+    "youden_j": 0.75,
+    "balanced_accuracy": 0.875
+  },
+  "adaptive_policy": {
+    "normal_threshold": 0.3,
+    "flat_threshold": 0.9,
+    "flat_result": {
+      "threshold": 0.9,
+      "tpr": 0.75,
+      "fpr": 0.0,
+      "youden_j": 0.75,
+      "balanced_accuracy": 0.875
+    }
+  },
+  "default_threshold_result": {
+    "threshold": 0.3,
+    "tpr": 0.9545454545454546,
+    "fpr": 1.0,
+    "youden_j": -0.045454545454545414,
+    "balanced_accuracy": 0.4772727272727273
+  },
+  "score_ranges": {
+    "positive_min": 0.029411764705882353,
+    "positive_max": 1.0,
+    "copy_min": 0.5423611104488373,
+    "copy_max": 0.8611111044883728
+  }
+}

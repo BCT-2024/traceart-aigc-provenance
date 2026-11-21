@@ -1,0 +1,27 @@
+\begin{table}[t]
+\centering
+\caption{Carrier, coding, and embedding-strength ablations.}
+\label{tab:ablation}
+\begin{tabular}{l l r r r r r r}
+\toprule
+Group & Configuration & PSNR (dB) & SSIM & JPEG50 (\%) & Crop (\%) & Blur (\%) & Screenshot (\%) \\
+\midrule
+carrier & dwt\_dct & 39.65 & 0.9990 & 99.5 & 92.0 & 98.0 & 99.5 \\
+carrier & dwt\_only & 41.36 & 0.9994 & 98.0 & 39.0 & 87.0 & 99.5 \\
+carrier & dct\_only & 43.46 & 0.9996 & 99.5 & 92.0 & 99.5 & 100.0 \\
+carrier & lsb & 52.36 & 1.0000 & 0.0 & 0.0 & 0.0 & 0.0 \\
+coding & rs\_repeat & 39.65 & 0.9990 & 99.5 & 92.0 & 98.0 & 99.5 \\
+coding & rs\_only & 44.22 & 0.9997 & 95.0 & 0.0 & 68.0 & 94.5 \\
+coding & repeat\_only & 39.62 & 0.9990 & 99.0 & 81.5 & 97.0 & 98.5 \\
+coding & raw & 45.92 & 0.9998 & 52.5 & 0.0 & 11.0 & 47.5 \\
+alpha & alpha\_8 & 40.72 & 0.9992 & 1.0 & 61.0 & 23.0 & 60.0 \\
+alpha & alpha\_12 & 40.59 & 0.9992 & 44.5 & 82.5 & 64.5 & 92.0 \\
+alpha & alpha\_16 & 40.40 & 0.9991 & 98.5 & 84.5 & 83.0 & 97.0 \\
+alpha & alpha\_20 & 40.21 & 0.9991 & 99.5 & 85.5 & 91.5 & 98.5 \\
+alpha & alpha\_24 & 39.96 & 0.9990 & 99.5 & 89.0 & 96.5 & 99.5 \\
+alpha & alpha\_28 & 39.65 & 0.9990 & 99.5 & 92.0 & 98.0 & 99.5 \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\footnotesize The ablation uses 200 positive images and alpha=28 for carrier and coding comparisons.
+\end{table}

@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\caption{Forgery, copy attack, and flat-image security tests.}
+\label{tab:security}
+\begin{tabular}{>{\raggedright\arraybackslash}p{27mm} >{\raggedright\arraybackslash}p{32mm} >{\raggedright\arraybackslash}p{38mm} >{\raggedright\arraybackslash}p{48mm}}
+\toprule
+Test & Condition & Accepted / tested & Interpretation \\
+\midrule
+Forged valid payload & Watermark only & 20 / 20 & No registry/content rejection \\
+Forged valid payload & Joint verification & 0 / 20 & Unregistered generation ID rejected \\
+Copied watermark & Binding off & 50 / 50 & Payload-only verification is vulnerable \\
+Copied watermark & Binding on & 0 / 50 & Content mismatch rejected \\
+Flat-image fallback & Threshold 0.30 & TPR 95.5\%; FPR 100.0\% & Unsafe for flat images \\
+Flat-image fallback & Threshold 0.90 & TPR 75.0\%; FPR 0.0\% & Conservative fallback \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\footnotesize Copy testing contains 50 paired donor-target trials. Flat-image testing contains 11 synthetic images.
+\end{table}

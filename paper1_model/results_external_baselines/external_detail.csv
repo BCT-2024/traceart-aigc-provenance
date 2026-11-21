@@ -1,0 +1,901 @@
+﻿generation_id,method,payload_bits,attack,params,psnr,ssim,ber,rs_success,crc_ok,generation_match,success
+362e339810cd4755b04e409d4ff15fd7,dwtDct,1024,clean,{},34.933678557738176,0.9999987683439631,0.2890625,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3896484375,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.49609375,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3154296875,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDct,1024,screenshot,{},,,0.3134765625,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5087890625,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDctSvd,1024,clean,{},34.828974723667834,0.999998719917904,0.0,1,1,1,1
+362e339810cd4755b04e409d4ff15fd7,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0869140625,1,1,1,1
+362e339810cd4755b04e409d4ff15fd7,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.5009765625,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0166015625,1,1,1,1
+362e339810cd4755b04e409d4ff15fd7,dwtDctSvd,1024,screenshot,{},,,0.0166015625,1,1,1,1
+362e339810cd4755b04e409d4ff15fd7,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.513671875,0,0,0,0
+362e339810cd4755b04e409d4ff15fd7,rivaGan,32,clean,{},40.37839078674652,0.9999033933687662,0.0,,,,1
+362e339810cd4755b04e409d4ff15fd7,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+362e339810cd4755b04e409d4ff15fd7,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+362e339810cd4755b04e409d4ff15fd7,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+362e339810cd4755b04e409d4ff15fd7,rivaGan,32,screenshot,{},,,0.0,,,,1
+362e339810cd4755b04e409d4ff15fd7,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+722296650fcc43bab2aa8a45239ef072,dwtDct,1024,clean,{},36.75877296462477,0.9999992415053701,0.31640625,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3701171875,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5205078125,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDct,1024,blur,"{""ksize"": 3}",,,0.349609375,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDct,1024,screenshot,{},,,0.2978515625,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4990234375,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDctSvd,1024,clean,{},36.70208799562979,0.9999992978845553,0.0,1,1,1,1
+722296650fcc43bab2aa8a45239ef072,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.056640625,1,1,1,1
+722296650fcc43bab2aa8a45239ef072,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.509765625,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0029296875,1,1,1,1
+722296650fcc43bab2aa8a45239ef072,dwtDctSvd,1024,screenshot,{},,,0.0107421875,1,1,1,1
+722296650fcc43bab2aa8a45239ef072,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5,0,0,0,0
+722296650fcc43bab2aa8a45239ef072,rivaGan,32,clean,{},40.41209671639072,0.999909979759199,0.0,,,,1
+722296650fcc43bab2aa8a45239ef072,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+722296650fcc43bab2aa8a45239ef072,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+722296650fcc43bab2aa8a45239ef072,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+722296650fcc43bab2aa8a45239ef072,rivaGan,32,screenshot,{},,,0.0,,,,1
+722296650fcc43bab2aa8a45239ef072,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+2b50299a4dea433fb7582c08ee37f95f,dwtDct,1024,clean,{},36.378373142383275,0.9999993738642512,0.326171875,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4072265625,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4833984375,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3564453125,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDct,1024,screenshot,{},,,0.318359375,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4814453125,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDctSvd,1024,clean,{},36.325663620927465,0.9999993562938075,0.0,1,1,1,1
+2b50299a4dea433fb7582c08ee37f95f,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0732421875,1,1,1,1
+2b50299a4dea433fb7582c08ee37f95f,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.484375,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0048828125,1,1,1,1
+2b50299a4dea433fb7582c08ee37f95f,dwtDctSvd,1024,screenshot,{},,,0.0087890625,1,1,1,1
+2b50299a4dea433fb7582c08ee37f95f,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4931640625,0,0,0,0
+2b50299a4dea433fb7582c08ee37f95f,rivaGan,32,clean,{},40.483710389482795,0.9998698175963594,0.0,,,,1
+2b50299a4dea433fb7582c08ee37f95f,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+2b50299a4dea433fb7582c08ee37f95f,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+2b50299a4dea433fb7582c08ee37f95f,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+2b50299a4dea433fb7582c08ee37f95f,rivaGan,32,screenshot,{},,,0.0,,,,1
+2b50299a4dea433fb7582c08ee37f95f,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDct,1024,clean,{},37.442834786873334,0.9999972219917989,0.263671875,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.396484375,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.501953125,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3037109375,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDct,1024,screenshot,{},,,0.3046875,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.49609375,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDctSvd,1024,clean,{},37.30459377448056,0.9999992561851277,0.0,1,1,1,1
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.052734375,1,1,1,1
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.490234375,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0009765625,1,1,1,1
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDctSvd,1024,screenshot,{},,,0.0107421875,1,1,1,1
+2a2f9248444f4ed89b9afefa3db6fe34,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5048828125,0,0,0,0
+2a2f9248444f4ed89b9afefa3db6fe34,rivaGan,32,clean,{},40.43791810782857,0.9999034818522728,0.0,,,,1
+2a2f9248444f4ed89b9afefa3db6fe34,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+2a2f9248444f4ed89b9afefa3db6fe34,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+2a2f9248444f4ed89b9afefa3db6fe34,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+2a2f9248444f4ed89b9afefa3db6fe34,rivaGan,32,screenshot,{},,,0.0,,,,1
+2a2f9248444f4ed89b9afefa3db6fe34,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+51f0753e964749a5be270d533e6fa9ce,dwtDct,1024,clean,{},34.984410534837295,0.9999978918216591,0.3349609375,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3857421875,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4794921875,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDct,1024,blur,"{""ksize"": 3}",,,0.365234375,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDct,1024,screenshot,{},,,0.3125,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.470703125,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDctSvd,1024,clean,{},34.98695319806271,0.9999984861274648,0.0,1,1,1,1
+51f0753e964749a5be270d533e6fa9ce,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.044921875,1,1,1,1
+51f0753e964749a5be270d533e6fa9ce,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.462890625,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0048828125,1,1,1,1
+51f0753e964749a5be270d533e6fa9ce,dwtDctSvd,1024,screenshot,{},,,0.00390625,1,1,1,1
+51f0753e964749a5be270d533e6fa9ce,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.45703125,0,0,0,0
+51f0753e964749a5be270d533e6fa9ce,rivaGan,32,clean,{},40.425210195149944,0.9999208270691375,0.0,,,,1
+51f0753e964749a5be270d533e6fa9ce,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+51f0753e964749a5be270d533e6fa9ce,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+51f0753e964749a5be270d533e6fa9ce,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+51f0753e964749a5be270d533e6fa9ce,rivaGan,32,screenshot,{},,,0.0,,,,1
+51f0753e964749a5be270d533e6fa9ce,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+660840108e5c49daa2471139f2df1a84,dwtDct,1024,clean,{},34.22612281692018,0.9999988799459655,0.3330078125,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3818359375,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4775390625,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDct,1024,blur,"{""ksize"": 3}",,,0.34765625,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDct,1024,screenshot,{},,,0.3251953125,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.48828125,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDctSvd,1024,clean,{},34.092315585549315,0.9999991403872535,0.0,1,1,1,1
+660840108e5c49daa2471139f2df1a84,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0849609375,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.439453125,0,0,0,0
+660840108e5c49daa2471139f2df1a84,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0263671875,1,1,1,1
+660840108e5c49daa2471139f2df1a84,dwtDctSvd,1024,screenshot,{},,,0.0263671875,1,1,1,1
+660840108e5c49daa2471139f2df1a84,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.455078125,0,0,0,0
+660840108e5c49daa2471139f2df1a84,rivaGan,32,clean,{},40.35205775780156,0.9999280076074141,0.0,,,,1
+660840108e5c49daa2471139f2df1a84,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+660840108e5c49daa2471139f2df1a84,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+660840108e5c49daa2471139f2df1a84,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+660840108e5c49daa2471139f2df1a84,rivaGan,32,screenshot,{},,,0.0,,,,1
+660840108e5c49daa2471139f2df1a84,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+8a49b2ef8444433896ba7096103da14d,dwtDct,1024,clean,{},35.26271845619061,0.9999987657284419,0.287109375,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.423828125,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5068359375,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3388671875,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDct,1024,screenshot,{},,,0.3017578125,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDctSvd,1024,clean,{},35.17512701681497,0.9999995177279112,0.0,1,1,1,1
+8a49b2ef8444433896ba7096103da14d,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.078125,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.484375,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0166015625,1,1,1,1
+8a49b2ef8444433896ba7096103da14d,dwtDctSvd,1024,screenshot,{},,,0.0146484375,1,1,1,1
+8a49b2ef8444433896ba7096103da14d,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.48046875,0,0,0,0
+8a49b2ef8444433896ba7096103da14d,rivaGan,32,clean,{},40.415420437417765,0.9999365599170054,0.0,,,,1
+8a49b2ef8444433896ba7096103da14d,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+8a49b2ef8444433896ba7096103da14d,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+8a49b2ef8444433896ba7096103da14d,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+8a49b2ef8444433896ba7096103da14d,rivaGan,32,screenshot,{},,,0.0,,,,1
+8a49b2ef8444433896ba7096103da14d,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+8a0e9d6f09314103ad9c8b9de5908413,dwtDct,1024,clean,{},35.462206821237736,0.9999988511035488,0.2705078125,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.396484375,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.462890625,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3388671875,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDct,1024,screenshot,{},,,0.26171875,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4521484375,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDctSvd,1024,clean,{},35.57989824301834,0.9999991166359167,0.0,1,1,1,1
+8a0e9d6f09314103ad9c8b9de5908413,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.021484375,1,1,1,1
+8a0e9d6f09314103ad9c8b9de5908413,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4716796875,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0029296875,1,1,1,1
+8a0e9d6f09314103ad9c8b9de5908413,dwtDctSvd,1024,screenshot,{},,,0.0,1,1,1,1
+8a0e9d6f09314103ad9c8b9de5908413,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4794921875,0,0,0,0
+8a0e9d6f09314103ad9c8b9de5908413,rivaGan,32,clean,{},40.49715078954292,0.9999198659874288,0.0,,,,1
+8a0e9d6f09314103ad9c8b9de5908413,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+8a0e9d6f09314103ad9c8b9de5908413,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+8a0e9d6f09314103ad9c8b9de5908413,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+8a0e9d6f09314103ad9c8b9de5908413,rivaGan,32,screenshot,{},,,0.0,,,,1
+8a0e9d6f09314103ad9c8b9de5908413,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+d3f8465be4aa49448f1ce1242b370e9c,dwtDct,1024,clean,{},37.85934780172369,0.9999987590169883,0.3115234375,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4375,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.505859375,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3935546875,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDct,1024,screenshot,{},,,0.3427734375,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4951171875,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDctSvd,1024,clean,{},37.986609813673226,0.9999997850275147,0.0,1,1,1,1
+d3f8465be4aa49448f1ce1242b370e9c,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.021484375,1,1,1,1
+d3f8465be4aa49448f1ce1242b370e9c,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.498046875,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+d3f8465be4aa49448f1ce1242b370e9c,dwtDctSvd,1024,screenshot,{},,,0.0,1,1,1,1
+d3f8465be4aa49448f1ce1242b370e9c,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.50390625,0,0,0,0
+d3f8465be4aa49448f1ce1242b370e9c,rivaGan,32,clean,{},40.384928077376856,0.9999226959791843,0.0,,,,1
+d3f8465be4aa49448f1ce1242b370e9c,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+d3f8465be4aa49448f1ce1242b370e9c,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+d3f8465be4aa49448f1ce1242b370e9c,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+d3f8465be4aa49448f1ce1242b370e9c,rivaGan,32,screenshot,{},,,0.0,,,,1
+d3f8465be4aa49448f1ce1242b370e9c,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+32e4eb92ff8148e690faed4473c27a8b,dwtDct,1024,clean,{},34.631711568103455,0.9999996775085416,0.2236328125,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3310546875,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.48046875,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDct,1024,blur,"{""ksize"": 3}",,,0.2236328125,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDct,1024,screenshot,{},,,0.2236328125,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4755859375,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDctSvd,1024,clean,{},34.43570946369063,0.9999996753157103,0.0,1,1,1,1
+32e4eb92ff8148e690faed4473c27a8b,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.046875,1,1,1,1
+32e4eb92ff8148e690faed4473c27a8b,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.486328125,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0166015625,1,1,1,1
+32e4eb92ff8148e690faed4473c27a8b,dwtDctSvd,1024,screenshot,{},,,0.0087890625,1,1,1,1
+32e4eb92ff8148e690faed4473c27a8b,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.490234375,0,0,0,0
+32e4eb92ff8148e690faed4473c27a8b,rivaGan,32,clean,{},40.359293447610284,0.9998426262897954,0.0,,,,1
+32e4eb92ff8148e690faed4473c27a8b,rivaGan,32,jpeg,"{""quality"": 50}",,,0.03125,,,,1
+32e4eb92ff8148e690faed4473c27a8b,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.03125,,,,1
+32e4eb92ff8148e690faed4473c27a8b,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+32e4eb92ff8148e690faed4473c27a8b,rivaGan,32,screenshot,{},,,0.0,,,,1
+32e4eb92ff8148e690faed4473c27a8b,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.03125,,,,1
+cc4f28a94e734a14a0683f47ff12a425,dwtDct,1024,clean,{},37.21865137484402,0.9999994024949416,0.447265625,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4892578125,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.556640625,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4404296875,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDct,1024,screenshot,{},,,0.447265625,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.53125,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDctSvd,1024,clean,{},36.929291110221094,0.9999995739685504,0.0,1,1,1,1
+cc4f28a94e734a14a0683f47ff12a425,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.130859375,0,0,1,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.5029296875,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0078125,1,1,1,1
+cc4f28a94e734a14a0683f47ff12a425,dwtDctSvd,1024,screenshot,{},,,0.0263671875,1,1,1,1
+cc4f28a94e734a14a0683f47ff12a425,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.52734375,0,0,0,0
+cc4f28a94e734a14a0683f47ff12a425,rivaGan,32,clean,{},40.357066151882364,0.9998800134462403,0.0,,,,1
+cc4f28a94e734a14a0683f47ff12a425,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+cc4f28a94e734a14a0683f47ff12a425,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+cc4f28a94e734a14a0683f47ff12a425,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+cc4f28a94e734a14a0683f47ff12a425,rivaGan,32,screenshot,{},,,0.0,,,,1
+cc4f28a94e734a14a0683f47ff12a425,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+2b0705a6f3b74efa8086dac2fb64e709,dwtDct,1024,clean,{},40.26594203923442,0.9999995761286689,0.4306640625,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4365234375,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4814453125,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4296875,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDct,1024,screenshot,{},,,0.3720703125,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4990234375,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDctSvd,1024,clean,{},40.04268509459786,0.9999999318340086,0.0,1,1,1,1
+2b0705a6f3b74efa8086dac2fb64e709,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.025390625,1,1,1,1
+2b0705a6f3b74efa8086dac2fb64e709,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4814453125,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0009765625,1,1,1,1
+2b0705a6f3b74efa8086dac2fb64e709,dwtDctSvd,1024,screenshot,{},,,0.0126953125,1,1,1,1
+2b0705a6f3b74efa8086dac2fb64e709,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4658203125,0,0,0,0
+2b0705a6f3b74efa8086dac2fb64e709,rivaGan,32,clean,{},40.4117839056823,0.9999427799344003,0.0,,,,1
+2b0705a6f3b74efa8086dac2fb64e709,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+2b0705a6f3b74efa8086dac2fb64e709,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+2b0705a6f3b74efa8086dac2fb64e709,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+2b0705a6f3b74efa8086dac2fb64e709,rivaGan,32,screenshot,{},,,0.0,,,,1
+2b0705a6f3b74efa8086dac2fb64e709,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+53185776001f490ea56b0c8ee20aebb2,dwtDct,1024,clean,{},37.50569651751081,0.9999984999861263,0.4521484375,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4501953125,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5234375,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4169921875,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDct,1024,screenshot,{},,,0.40625,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.509765625,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDctSvd,1024,clean,{},37.20026236039039,0.9999987917063374,0.0,1,1,1,1
+53185776001f490ea56b0c8ee20aebb2,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0615234375,1,1,1,1
+53185776001f490ea56b0c8ee20aebb2,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4755859375,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0068359375,1,1,1,1
+53185776001f490ea56b0c8ee20aebb2,dwtDctSvd,1024,screenshot,{},,,0.0234375,1,1,1,1
+53185776001f490ea56b0c8ee20aebb2,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.48046875,0,0,0,0
+53185776001f490ea56b0c8ee20aebb2,rivaGan,32,clean,{},40.37914230629531,0.9999006715193695,0.0,,,,1
+53185776001f490ea56b0c8ee20aebb2,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+53185776001f490ea56b0c8ee20aebb2,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+53185776001f490ea56b0c8ee20aebb2,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+53185776001f490ea56b0c8ee20aebb2,rivaGan,32,screenshot,{},,,0.0,,,,1
+53185776001f490ea56b0c8ee20aebb2,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+78f979c8c3f0407ead5d97a10ad640d6,dwtDct,1024,clean,{},39.53363814415235,0.9999993291049614,0.4638671875,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4765625,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5283203125,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4658203125,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDct,1024,screenshot,{},,,0.4609375,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5390625,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDctSvd,1024,clean,{},39.068818862108984,0.9999998122606859,0.0,1,1,1,1
+78f979c8c3f0407ead5d97a10ad640d6,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0634765625,1,1,1,1
+78f979c8c3f0407ead5d97a10ad640d6,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.484375,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0029296875,1,1,1,1
+78f979c8c3f0407ead5d97a10ad640d6,dwtDctSvd,1024,screenshot,{},,,0.0224609375,1,1,1,1
+78f979c8c3f0407ead5d97a10ad640d6,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5009765625,0,0,0,0
+78f979c8c3f0407ead5d97a10ad640d6,rivaGan,32,clean,{},40.45110142515103,0.999939660459594,0.0,,,,1
+78f979c8c3f0407ead5d97a10ad640d6,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+78f979c8c3f0407ead5d97a10ad640d6,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+78f979c8c3f0407ead5d97a10ad640d6,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+78f979c8c3f0407ead5d97a10ad640d6,rivaGan,32,screenshot,{},,,0.0,,,,1
+78f979c8c3f0407ead5d97a10ad640d6,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDct,1024,clean,{},38.69842348473161,0.9999995538013784,0.34765625,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.462890625,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5078125,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDct,1024,blur,"{""ksize"": 3}",,,0.39453125,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDct,1024,screenshot,{},,,0.376953125,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5205078125,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDctSvd,1024,clean,{},38.807918482667304,0.9999999484539844,0.0,1,1,1,1
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0771484375,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.484375,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.00390625,1,1,1,1
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDctSvd,1024,screenshot,{},,,0.021484375,1,1,1,1
+14c32a2d30494c34bbc9fccf1a6e93ad,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4912109375,0,0,0,0
+14c32a2d30494c34bbc9fccf1a6e93ad,rivaGan,32,clean,{},40.31593938972465,0.9999417960985277,0.0,,,,1
+14c32a2d30494c34bbc9fccf1a6e93ad,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+14c32a2d30494c34bbc9fccf1a6e93ad,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+14c32a2d30494c34bbc9fccf1a6e93ad,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+14c32a2d30494c34bbc9fccf1a6e93ad,rivaGan,32,screenshot,{},,,0.0,,,,1
+14c32a2d30494c34bbc9fccf1a6e93ad,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+259459d533ee4dcb9ef732108546205a,dwtDct,1024,clean,{},34.740142945534025,0.9999967994137482,0.3359375,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.43359375,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.490234375,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDct,1024,blur,"{""ksize"": 3}",,,0.37109375,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDct,1024,screenshot,{},,,0.3408203125,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.51171875,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDctSvd,1024,clean,{},34.66089711106793,0.999997256077132,0.0,1,1,1,1
+259459d533ee4dcb9ef732108546205a,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.1142578125,1,1,1,1
+259459d533ee4dcb9ef732108546205a,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.47265625,0,0,0,0
+259459d533ee4dcb9ef732108546205a,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0166015625,1,1,1,1
+259459d533ee4dcb9ef732108546205a,dwtDctSvd,1024,screenshot,{},,,0.025390625,1,1,1,1
+259459d533ee4dcb9ef732108546205a,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.466796875,0,0,0,0
+259459d533ee4dcb9ef732108546205a,rivaGan,32,clean,{},40.49743838311517,0.999902354351463,0.03125,,,,1
+259459d533ee4dcb9ef732108546205a,rivaGan,32,jpeg,"{""quality"": 50}",,,0.03125,,,,1
+259459d533ee4dcb9ef732108546205a,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.03125,,,,1
+259459d533ee4dcb9ef732108546205a,rivaGan,32,blur,"{""ksize"": 3}",,,0.03125,,,,1
+259459d533ee4dcb9ef732108546205a,rivaGan,32,screenshot,{},,,0.03125,,,,1
+259459d533ee4dcb9ef732108546205a,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.03125,,,,1
+02980eb6e3ce4f9796824577e62c35fb,dwtDct,1024,clean,{},37.34311875716338,0.9999997069855395,0.35546875,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3876953125,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4404296875,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDct,1024,blur,"{""ksize"": 3}",,,0.36328125,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDct,1024,screenshot,{},,,0.35546875,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4404296875,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,1024,clean,{},37.19424208795945,0.9999997841031226,0.0,1,1,1,1
+02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.05078125,1,1,1,1
+02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.498046875,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0009765625,1,1,1,1
+02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,1024,screenshot,{},,,0.001953125,1,1,1,1
+02980eb6e3ce4f9796824577e62c35fb,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5029296875,0,0,0,0
+02980eb6e3ce4f9796824577e62c35fb,rivaGan,32,clean,{},40.578448618722774,0.9999061072476383,0.0,,,,1
+02980eb6e3ce4f9796824577e62c35fb,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+02980eb6e3ce4f9796824577e62c35fb,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+02980eb6e3ce4f9796824577e62c35fb,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+02980eb6e3ce4f9796824577e62c35fb,rivaGan,32,screenshot,{},,,0.0,,,,1
+02980eb6e3ce4f9796824577e62c35fb,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDct,1024,clean,{},37.866474326937535,0.9999995651438169,0.314453125,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3798828125,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4794921875,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDct,1024,blur,"{""ksize"": 3}",,,0.2939453125,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDct,1024,screenshot,{},,,0.3134765625,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.478515625,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDctSvd,1024,clean,{},37.43425561051233,0.9999996831046171,0.0,1,1,1,1
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0390625,1,1,1,1
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.505859375,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.005859375,1,1,1,1
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDctSvd,1024,screenshot,{},,,0.0078125,1,1,1,1
+6ce1dd0a87004a07900f0e8c23cec35d,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4921875,0,0,0,0
+6ce1dd0a87004a07900f0e8c23cec35d,rivaGan,32,clean,{},40.34800551033296,0.9999281609714438,0.0,,,,1
+6ce1dd0a87004a07900f0e8c23cec35d,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+6ce1dd0a87004a07900f0e8c23cec35d,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+6ce1dd0a87004a07900f0e8c23cec35d,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+6ce1dd0a87004a07900f0e8c23cec35d,rivaGan,32,screenshot,{},,,0.0,,,,1
+6ce1dd0a87004a07900f0e8c23cec35d,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+c190fe28984b46129447875dce0ffbc5,dwtDct,1024,clean,{},36.30792393857071,0.9999989196542519,0.326171875,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.412109375,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4736328125,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDct,1024,blur,"{""ksize"": 3}",,,0.349609375,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDct,1024,screenshot,{},,,0.3291015625,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.45703125,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDctSvd,1024,clean,{},36.151987221247516,0.9999991421925107,0.0,1,1,1,1
+c190fe28984b46129447875dce0ffbc5,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.046875,1,1,1,1
+c190fe28984b46129447875dce0ffbc5,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.5078125,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0068359375,1,1,1,1
+c190fe28984b46129447875dce0ffbc5,dwtDctSvd,1024,screenshot,{},,,0.0068359375,1,1,1,1
+c190fe28984b46129447875dce0ffbc5,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.50390625,0,0,0,0
+c190fe28984b46129447875dce0ffbc5,rivaGan,32,clean,{},40.53551125016565,0.9998912522107904,0.0,,,,1
+c190fe28984b46129447875dce0ffbc5,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+c190fe28984b46129447875dce0ffbc5,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+c190fe28984b46129447875dce0ffbc5,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+c190fe28984b46129447875dce0ffbc5,rivaGan,32,screenshot,{},,,0.0,,,,1
+c190fe28984b46129447875dce0ffbc5,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+e665787be0324d9f9e3428eaf3f99ab2,dwtDct,1024,clean,{},36.5757585134306,0.999999320001178,0.3046875,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4404296875,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.490234375,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDct,1024,blur,"{""ksize"": 3}",,,0.31640625,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDct,1024,screenshot,{},,,0.322265625,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4921875,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDctSvd,1024,clean,{},36.35101440548118,0.9999996565655294,0.0,1,1,1,1
+e665787be0324d9f9e3428eaf3f99ab2,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.068359375,1,1,1,1
+e665787be0324d9f9e3428eaf3f99ab2,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.466796875,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0068359375,1,1,1,1
+e665787be0324d9f9e3428eaf3f99ab2,dwtDctSvd,1024,screenshot,{},,,0.0048828125,1,1,1,1
+e665787be0324d9f9e3428eaf3f99ab2,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.47265625,0,0,0,0
+e665787be0324d9f9e3428eaf3f99ab2,rivaGan,32,clean,{},40.51813983124547,0.9999415239475169,0.0,,,,1
+e665787be0324d9f9e3428eaf3f99ab2,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+e665787be0324d9f9e3428eaf3f99ab2,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+e665787be0324d9f9e3428eaf3f99ab2,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+e665787be0324d9f9e3428eaf3f99ab2,rivaGan,32,screenshot,{},,,0.0,,,,1
+e665787be0324d9f9e3428eaf3f99ab2,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+a387341fa446454b98adbc47dd8aa320,dwtDct,1024,clean,{},40.63772074384151,0.9999997981683005,0.328125,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.388671875,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5009765625,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3017578125,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDct,1024,screenshot,{},,,0.33203125,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4990234375,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDctSvd,1024,clean,{},39.27355506096867,0.9999998308574501,0.0,1,1,1,1
+a387341fa446454b98adbc47dd8aa320,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.19921875,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.5263671875,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0107421875,1,1,1,1
+a387341fa446454b98adbc47dd8aa320,dwtDctSvd,1024,screenshot,{},,,0.0341796875,1,1,1,1
+a387341fa446454b98adbc47dd8aa320,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5302734375,0,0,0,0
+a387341fa446454b98adbc47dd8aa320,rivaGan,32,clean,{},40.470244262271315,0.9999175574330553,0.0,,,,1
+a387341fa446454b98adbc47dd8aa320,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+a387341fa446454b98adbc47dd8aa320,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+a387341fa446454b98adbc47dd8aa320,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+a387341fa446454b98adbc47dd8aa320,rivaGan,32,screenshot,{},,,0.0,,,,1
+a387341fa446454b98adbc47dd8aa320,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDct,1024,clean,{},34.901138529931494,0.9999997309350629,0.267578125,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3642578125,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4794921875,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDct,1024,blur,"{""ksize"": 3}",,,0.28125,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDct,1024,screenshot,{},,,0.2587890625,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.474609375,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDctSvd,1024,clean,{},34.741995282905094,0.9999997425721581,0.0,1,1,1,1
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.1357421875,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4814453125,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.021484375,1,1,1,1
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDctSvd,1024,screenshot,{},,,0.029296875,1,1,1,1
+fbfc040189ef4ae38fe96669b9d7a5cf,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4794921875,0,0,0,0
+fbfc040189ef4ae38fe96669b9d7a5cf,rivaGan,32,clean,{},40.51371174241385,0.9999213809461581,0.0,,,,1
+fbfc040189ef4ae38fe96669b9d7a5cf,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+fbfc040189ef4ae38fe96669b9d7a5cf,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+fbfc040189ef4ae38fe96669b9d7a5cf,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+fbfc040189ef4ae38fe96669b9d7a5cf,rivaGan,32,screenshot,{},,,0.0,,,,1
+fbfc040189ef4ae38fe96669b9d7a5cf,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+a6806e2353444551983d3df0a9a76d0a,dwtDct,1024,clean,{},37.318118620811575,0.9999994425628449,0.3427734375,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4072265625,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.482421875,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDct,1024,blur,"{""ksize"": 3}",,,0.357421875,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDct,1024,screenshot,{},,,0.35546875,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.466796875,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDctSvd,1024,clean,{},37.05239732181306,0.9999995255997712,0.0,1,1,1,1
+a6806e2353444551983d3df0a9a76d0a,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0419921875,1,1,1,1
+a6806e2353444551983d3df0a9a76d0a,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.470703125,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0068359375,1,1,1,1
+a6806e2353444551983d3df0a9a76d0a,dwtDctSvd,1024,screenshot,{},,,0.0029296875,1,1,1,1
+a6806e2353444551983d3df0a9a76d0a,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.478515625,0,0,0,0
+a6806e2353444551983d3df0a9a76d0a,rivaGan,32,clean,{},40.45662729818436,0.9999355138121873,0.0,,,,1
+a6806e2353444551983d3df0a9a76d0a,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+a6806e2353444551983d3df0a9a76d0a,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+a6806e2353444551983d3df0a9a76d0a,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+a6806e2353444551983d3df0a9a76d0a,rivaGan,32,screenshot,{},,,0.0,,,,1
+a6806e2353444551983d3df0a9a76d0a,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+b47b394447dc42299189ff566f3fa30f,dwtDct,1024,clean,{},37.08243166675105,0.9999990417096802,0.28125,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.412109375,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.494140625,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3056640625,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDct,1024,screenshot,{},,,0.3037109375,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.484375,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDctSvd,1024,clean,{},36.8585177258329,0.9999990250135318,0.0,1,1,1,1
+b47b394447dc42299189ff566f3fa30f,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.05078125,1,1,1,1
+b47b394447dc42299189ff566f3fa30f,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.46875,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0078125,1,1,1,1
+b47b394447dc42299189ff566f3fa30f,dwtDctSvd,1024,screenshot,{},,,0.0078125,1,1,1,1
+b47b394447dc42299189ff566f3fa30f,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4814453125,0,0,0,0
+b47b394447dc42299189ff566f3fa30f,rivaGan,32,clean,{},40.596568109862964,0.9999063642893762,0.0,,,,1
+b47b394447dc42299189ff566f3fa30f,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+b47b394447dc42299189ff566f3fa30f,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+b47b394447dc42299189ff566f3fa30f,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+b47b394447dc42299189ff566f3fa30f,rivaGan,32,screenshot,{},,,0.0,,,,1
+b47b394447dc42299189ff566f3fa30f,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+2a23b5efa8bd4349af9581bea295686f,dwtDct,1024,clean,{},37.92129008336369,0.9999992842271128,0.271484375,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3955078125,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDct,1024,blur,"{""ksize"": 3}",,,0.2763671875,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDct,1024,screenshot,{},,,0.26171875,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.525390625,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDctSvd,1024,clean,{},37.68428351992608,0.9999994764033387,0.0,1,1,1,1
+2a23b5efa8bd4349af9581bea295686f,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.138671875,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4375,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0048828125,1,1,1,1
+2a23b5efa8bd4349af9581bea295686f,dwtDctSvd,1024,screenshot,{},,,0.0185546875,1,1,1,1
+2a23b5efa8bd4349af9581bea295686f,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.462890625,0,0,0,0
+2a23b5efa8bd4349af9581bea295686f,rivaGan,32,clean,{},40.528571799305354,0.9999408678379849,0.0,,,,1
+2a23b5efa8bd4349af9581bea295686f,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+2a23b5efa8bd4349af9581bea295686f,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+2a23b5efa8bd4349af9581bea295686f,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+2a23b5efa8bd4349af9581bea295686f,rivaGan,32,screenshot,{},,,0.0,,,,1
+2a23b5efa8bd4349af9581bea295686f,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+3550c548dc9641ec824de04fc71fff8b,dwtDct,1024,clean,{},39.42624617158706,0.999999538203205,0.47265625,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4765625,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5234375,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDct,1024,blur,"{""ksize"": 3}",,,0.470703125,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDct,1024,screenshot,{},,,0.4619140625,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5126953125,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDctSvd,1024,clean,{},39.450760947458775,0.9999999024218349,0.0,1,1,1,1
+3550c548dc9641ec824de04fc71fff8b,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0078125,1,1,1,1
+3550c548dc9641ec824de04fc71fff8b,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4365234375,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+3550c548dc9641ec824de04fc71fff8b,dwtDctSvd,1024,screenshot,{},,,0.0009765625,1,1,1,1
+3550c548dc9641ec824de04fc71fff8b,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.439453125,0,0,0,0
+3550c548dc9641ec824de04fc71fff8b,rivaGan,32,clean,{},40.43839345276109,0.9998654894238949,0.0,,,,1
+3550c548dc9641ec824de04fc71fff8b,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+3550c548dc9641ec824de04fc71fff8b,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+3550c548dc9641ec824de04fc71fff8b,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+3550c548dc9641ec824de04fc71fff8b,rivaGan,32,screenshot,{},,,0.0,,,,1
+3550c548dc9641ec824de04fc71fff8b,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDct,1024,clean,{},39.56628142569757,0.9999989066048135,0.453125,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.466796875,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.498046875,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4619140625,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDct,1024,screenshot,{},,,0.4150390625,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4931640625,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDctSvd,1024,clean,{},39.52647151975353,0.9999996206483224,0.0,1,1,1,1
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0078125,1,1,1,1
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4609375,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDctSvd,1024,screenshot,{},,,0.0048828125,1,1,1,1
+f4d1c925e8a84e2a9b9aac75de4f701a,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4541015625,0,0,0,0
+f4d1c925e8a84e2a9b9aac75de4f701a,rivaGan,32,clean,{},40.537717608744984,0.9998948590336952,0.0,,,,1
+f4d1c925e8a84e2a9b9aac75de4f701a,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+f4d1c925e8a84e2a9b9aac75de4f701a,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+f4d1c925e8a84e2a9b9aac75de4f701a,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+f4d1c925e8a84e2a9b9aac75de4f701a,rivaGan,32,screenshot,{},,,0.0,,,,1
+f4d1c925e8a84e2a9b9aac75de4f701a,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+91454a26310d4f39948d97f4466c1663,dwtDct,1024,clean,{},39.97073389328902,0.9999994394748423,0.40625,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4296875,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.490234375,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDct,1024,blur,"{""ksize"": 3}",,,0.41796875,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDct,1024,screenshot,{},,,0.41015625,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5009765625,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDctSvd,1024,clean,{},39.3003033602904,0.9999998581692225,0.0,1,1,1,1
+91454a26310d4f39948d97f4466c1663,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.00390625,1,1,1,1
+91454a26310d4f39948d97f4466c1663,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4775390625,0,0,0,0
+91454a26310d4f39948d97f4466c1663,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+91454a26310d4f39948d97f4466c1663,dwtDctSvd,1024,screenshot,{},,,0.0,1,1,1,1
+91454a26310d4f39948d97f4466c1663,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.486328125,0,0,0,0
+91454a26310d4f39948d97f4466c1663,rivaGan,32,clean,{},40.576399915218495,0.9998686173787293,0.0,,,,1
+91454a26310d4f39948d97f4466c1663,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+91454a26310d4f39948d97f4466c1663,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+91454a26310d4f39948d97f4466c1663,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+91454a26310d4f39948d97f4466c1663,rivaGan,32,screenshot,{},,,0.0,,,,1
+91454a26310d4f39948d97f4466c1663,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+1c05865e935b443d9b46d06724834dbd,dwtDct,1024,clean,{},40.43839345276109,0.9999987619156544,0.4404296875,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4482421875,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4873046875,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDct,1024,blur,"{""ksize"": 3}",,,0.439453125,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDct,1024,screenshot,{},,,0.42578125,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4970703125,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDctSvd,1024,clean,{},39.9282631451282,0.9999997868195774,0.0,1,1,1,1
+1c05865e935b443d9b46d06724834dbd,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0146484375,1,1,1,1
+1c05865e935b443d9b46d06724834dbd,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4736328125,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+1c05865e935b443d9b46d06724834dbd,dwtDctSvd,1024,screenshot,{},,,0.0009765625,1,1,1,1
+1c05865e935b443d9b46d06724834dbd,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4775390625,0,0,0,0
+1c05865e935b443d9b46d06724834dbd,rivaGan,32,clean,{},40.39080055043955,0.999909158533603,0.0,,,,1
+1c05865e935b443d9b46d06724834dbd,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+1c05865e935b443d9b46d06724834dbd,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+1c05865e935b443d9b46d06724834dbd,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+1c05865e935b443d9b46d06724834dbd,rivaGan,32,screenshot,{},,,0.0,,,,1
+1c05865e935b443d9b46d06724834dbd,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+6986feea0fad422db7a8fb550ca24ae9,dwtDct,1024,clean,{},39.552206783593775,0.9999992542599271,0.390625,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4326171875,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4755859375,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDct,1024,blur,"{""ksize"": 3}",,,0.388671875,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDct,1024,screenshot,{},,,0.390625,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4970703125,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDctSvd,1024,clean,{},38.611002233470046,0.9999997770960446,0.0,1,1,1,1
+6986feea0fad422db7a8fb550ca24ae9,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0244140625,1,1,1,1
+6986feea0fad422db7a8fb550ca24ae9,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4736328125,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+6986feea0fad422db7a8fb550ca24ae9,dwtDctSvd,1024,screenshot,{},,,0.0107421875,1,1,1,1
+6986feea0fad422db7a8fb550ca24ae9,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4765625,0,0,0,0
+6986feea0fad422db7a8fb550ca24ae9,rivaGan,32,clean,{},40.484311352256235,0.9999498979220605,0.0,,,,1
+6986feea0fad422db7a8fb550ca24ae9,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+6986feea0fad422db7a8fb550ca24ae9,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+6986feea0fad422db7a8fb550ca24ae9,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+6986feea0fad422db7a8fb550ca24ae9,rivaGan,32,screenshot,{},,,0.0,,,,1
+6986feea0fad422db7a8fb550ca24ae9,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+ca4e8ff5915845ec91246e380aea58a9,dwtDct,1024,clean,{},39.245647529867526,0.9999988657251142,0.3671875,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4423828125,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4765625,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDct,1024,blur,"{""ksize"": 3}",,,0.369140625,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDct,1024,screenshot,{},,,0.3623046875,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.494140625,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDctSvd,1024,clean,{},39.08516617748842,0.9999998699730126,0.0,1,1,1,1
+ca4e8ff5915845ec91246e380aea58a9,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.02734375,1,1,1,1
+ca4e8ff5915845ec91246e380aea58a9,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4599609375,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+ca4e8ff5915845ec91246e380aea58a9,dwtDctSvd,1024,screenshot,{},,,0.001953125,1,1,1,1
+ca4e8ff5915845ec91246e380aea58a9,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4736328125,0,0,0,0
+ca4e8ff5915845ec91246e380aea58a9,rivaGan,32,clean,{},40.5548675449139,0.9999115660072507,0.0,,,,1
+ca4e8ff5915845ec91246e380aea58a9,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+ca4e8ff5915845ec91246e380aea58a9,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+ca4e8ff5915845ec91246e380aea58a9,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+ca4e8ff5915845ec91246e380aea58a9,rivaGan,32,screenshot,{},,,0.0,,,,1
+ca4e8ff5915845ec91246e380aea58a9,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+31d859baf2eb43249e64fc53b0646dab,dwtDct,1024,clean,{},39.813722431157736,0.9999986934251502,0.4716796875,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.490234375,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5341796875,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4853515625,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDct,1024,screenshot,{},,,0.470703125,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5263671875,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDctSvd,1024,clean,{},39.84250704407949,0.9999996365530335,0.0,1,1,1,1
+31d859baf2eb43249e64fc53b0646dab,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0244140625,1,1,1,1
+31d859baf2eb43249e64fc53b0646dab,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4794921875,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+31d859baf2eb43249e64fc53b0646dab,dwtDctSvd,1024,screenshot,{},,,0.00390625,1,1,1,1
+31d859baf2eb43249e64fc53b0646dab,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4658203125,0,0,0,0
+31d859baf2eb43249e64fc53b0646dab,rivaGan,32,clean,{},40.47738396729731,0.9999284820191722,0.0,,,,1
+31d859baf2eb43249e64fc53b0646dab,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+31d859baf2eb43249e64fc53b0646dab,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+31d859baf2eb43249e64fc53b0646dab,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+31d859baf2eb43249e64fc53b0646dab,rivaGan,32,screenshot,{},,,0.0,,,,1
+31d859baf2eb43249e64fc53b0646dab,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+507117d363934140994dd0300cd3bd32,dwtDct,1024,clean,{},38.95881568991767,0.9999996065004152,0.3046875,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3935546875,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4658203125,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3037109375,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDct,1024,screenshot,{},,,0.271484375,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.478515625,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDctSvd,1024,clean,{},39.048206027835526,0.9999999118360711,0.0,1,1,1,1
+507117d363934140994dd0300cd3bd32,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0810546875,1,1,1,1
+507117d363934140994dd0300cd3bd32,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.439453125,0,0,0,0
+507117d363934140994dd0300cd3bd32,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0009765625,1,1,1,1
+507117d363934140994dd0300cd3bd32,dwtDctSvd,1024,screenshot,{},,,0.009765625,1,1,1,1
+507117d363934140994dd0300cd3bd32,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4677734375,0,0,0,0
+507117d363934140994dd0300cd3bd32,rivaGan,32,clean,{},40.52416277093654,0.9999218707668913,0.0,,,,1
+507117d363934140994dd0300cd3bd32,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+507117d363934140994dd0300cd3bd32,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+507117d363934140994dd0300cd3bd32,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+507117d363934140994dd0300cd3bd32,rivaGan,32,screenshot,{},,,0.0,,,,1
+507117d363934140994dd0300cd3bd32,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+751a36c8849445419312556e2f4007ff,dwtDct,1024,clean,{},38.73072142381616,0.9999991537972568,0.4208984375,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4501953125,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4736328125,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4189453125,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDct,1024,screenshot,{},,,0.38671875,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.466796875,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDctSvd,1024,clean,{},39.06236337109592,0.9999995808325831,0.0,1,1,1,1
+751a36c8849445419312556e2f4007ff,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.009765625,1,1,1,1
+751a36c8849445419312556e2f4007ff,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.42578125,0,0,0,0
+751a36c8849445419312556e2f4007ff,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+751a36c8849445419312556e2f4007ff,dwtDctSvd,1024,screenshot,{},,,0.00390625,1,1,1,1
+751a36c8849445419312556e2f4007ff,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.43359375,0,0,0,0
+751a36c8849445419312556e2f4007ff,rivaGan,32,clean,{},40.41967174296704,0.9999237194534546,0.0,,,,1
+751a36c8849445419312556e2f4007ff,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+751a36c8849445419312556e2f4007ff,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+751a36c8849445419312556e2f4007ff,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+751a36c8849445419312556e2f4007ff,rivaGan,32,screenshot,{},,,0.0,,,,1
+751a36c8849445419312556e2f4007ff,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+04cfb59095a643269133ca2a2c112acc,dwtDct,1024,clean,{},39.56241043871416,0.9999993790988803,0.3974609375,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.412109375,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4658203125,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3935546875,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDct,1024,screenshot,{},,,0.35546875,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.451171875,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDctSvd,1024,clean,{},39.382749676205606,0.9999999554522779,0.0,1,1,1,1
+04cfb59095a643269133ca2a2c112acc,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0166015625,1,1,1,1
+04cfb59095a643269133ca2a2c112acc,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.455078125,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+04cfb59095a643269133ca2a2c112acc,dwtDctSvd,1024,screenshot,{},,,0.0009765625,1,1,1,1
+04cfb59095a643269133ca2a2c112acc,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4423828125,0,0,0,0
+04cfb59095a643269133ca2a2c112acc,rivaGan,32,clean,{},40.651832613707526,0.9999165835286655,0.0,,,,1
+04cfb59095a643269133ca2a2c112acc,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+04cfb59095a643269133ca2a2c112acc,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+04cfb59095a643269133ca2a2c112acc,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+04cfb59095a643269133ca2a2c112acc,rivaGan,32,screenshot,{},,,0.0,,,,1
+04cfb59095a643269133ca2a2c112acc,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDct,1024,clean,{},36.800925823642615,0.9999985302570296,0.2998046875,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4111328125,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.486328125,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3154296875,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDct,1024,screenshot,{},,,0.3095703125,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.501953125,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDctSvd,1024,clean,{},36.49423241449272,0.999999370302491,0.0,1,1,1,1
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.095703125,1,1,1,1
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.47265625,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.005859375,1,1,1,1
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDctSvd,1024,screenshot,{},,,0.0146484375,1,1,1,1
+1a4e3e23f5e94b55af55de26fc0aae6c,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4599609375,0,0,0,0
+1a4e3e23f5e94b55af55de26fc0aae6c,rivaGan,32,clean,{},40.53059230157088,0.9999212035306126,0.0,,,,1
+1a4e3e23f5e94b55af55de26fc0aae6c,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+1a4e3e23f5e94b55af55de26fc0aae6c,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+1a4e3e23f5e94b55af55de26fc0aae6c,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+1a4e3e23f5e94b55af55de26fc0aae6c,rivaGan,32,screenshot,{},,,0.0,,,,1
+1a4e3e23f5e94b55af55de26fc0aae6c,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+2a3051901c53444989bac854ad39028b,dwtDct,1024,clean,{},37.055463594079505,0.9999990838815775,0.365234375,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.3984375,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4873046875,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDct,1024,blur,"{""ksize"": 3}",,,0.376953125,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDct,1024,screenshot,{},,,0.35546875,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4853515625,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDctSvd,1024,clean,{},36.827635278788236,0.9999994442686146,0.0,1,1,1,1
+2a3051901c53444989bac854ad39028b,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.078125,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.466796875,0,0,0,0
+2a3051901c53444989bac854ad39028b,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.01171875,1,1,1,1
+2a3051901c53444989bac854ad39028b,dwtDctSvd,1024,screenshot,{},,,0.0302734375,1,1,1,1
+2a3051901c53444989bac854ad39028b,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.49609375,0,0,0,0
+2a3051901c53444989bac854ad39028b,rivaGan,32,clean,{},40.37430557442066,0.9999281855613665,0.0,,,,1
+2a3051901c53444989bac854ad39028b,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+2a3051901c53444989bac854ad39028b,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+2a3051901c53444989bac854ad39028b,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+2a3051901c53444989bac854ad39028b,rivaGan,32,screenshot,{},,,0.0,,,,1
+2a3051901c53444989bac854ad39028b,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,1024,clean,{},39.546312114768995,0.9999997641530375,0.29296875,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4208984375,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.474609375,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,1024,blur,"{""ksize"": 3}",,,0.330078125,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,1024,screenshot,{},,,0.3203125,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4697265625,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,1024,clean,{},39.21859420937446,0.9999999572414474,0.0,1,1,1,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0654296875,1,1,1,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.474609375,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0029296875,1,1,1,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,1024,screenshot,{},,,0.0078125,1,1,1,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.421875,0,0,0,0
+e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,32,clean,{},40.47052345440355,0.999933829951228,0.0,,,,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,32,screenshot,{},,,0.0,,,,1
+e794dcbfdc1f4f15b79f12f0f65e65cb,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+f4459e64870842bea3a262e8bebd4773,dwtDct,1024,clean,{},36.399877896147785,0.9999993320835613,0.318359375,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.396484375,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5234375,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDct,1024,blur,"{""ksize"": 3}",,,0.31640625,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDct,1024,screenshot,{},,,0.306640625,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.513671875,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDctSvd,1024,clean,{},36.17880477532748,0.9999998065583214,0.0,1,1,1,1
+f4459e64870842bea3a262e8bebd4773,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.109375,1,1,1,1
+f4459e64870842bea3a262e8bebd4773,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4853515625,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0126953125,1,1,1,1
+f4459e64870842bea3a262e8bebd4773,dwtDctSvd,1024,screenshot,{},,,0.0224609375,1,1,1,1
+f4459e64870842bea3a262e8bebd4773,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4892578125,0,0,0,0
+f4459e64870842bea3a262e8bebd4773,rivaGan,32,clean,{},40.48642155153023,0.9999050732300063,0.0,,,,1
+f4459e64870842bea3a262e8bebd4773,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+f4459e64870842bea3a262e8bebd4773,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+f4459e64870842bea3a262e8bebd4773,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+f4459e64870842bea3a262e8bebd4773,rivaGan,32,screenshot,{},,,0.0,,,,1
+f4459e64870842bea3a262e8bebd4773,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+7c67edc570db4bccb06d05c92ce91821,dwtDct,1024,clean,{},36.28083128981935,0.9999983950270814,0.365234375,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4228515625,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5146484375,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3994140625,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDct,1024,screenshot,{},,,0.37890625,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5078125,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDctSvd,1024,clean,{},36.08081042561598,0.9999993707561627,0.0,1,1,1,1
+7c67edc570db4bccb06d05c92ce91821,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0830078125,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4736328125,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.009765625,1,1,1,1
+7c67edc570db4bccb06d05c92ce91821,dwtDctSvd,1024,screenshot,{},,,0.03515625,1,1,1,1
+7c67edc570db4bccb06d05c92ce91821,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.48046875,0,0,0,0
+7c67edc570db4bccb06d05c92ce91821,rivaGan,32,clean,{},40.464916552744874,0.9999325211271844,0.0,,,,1
+7c67edc570db4bccb06d05c92ce91821,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+7c67edc570db4bccb06d05c92ce91821,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+7c67edc570db4bccb06d05c92ce91821,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+7c67edc570db4bccb06d05c92ce91821,rivaGan,32,screenshot,{},,,0.0,,,,1
+7c67edc570db4bccb06d05c92ce91821,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+6d310e40cc204380820bd6a9740aa79c,dwtDct,1024,clean,{},40.255410816914065,0.9999998915060707,0.1591796875,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.470703125,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.482421875,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3212890625,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDct,1024,screenshot,{},,,0.291015625,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5029296875,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDctSvd,1024,clean,{},41.03568524056793,0.9999999435754895,0.0,1,1,1,1
+6d310e40cc204380820bd6a9740aa79c,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.1162109375,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.423828125,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0078125,1,1,1,1
+6d310e40cc204380820bd6a9740aa79c,dwtDctSvd,1024,screenshot,{},,,0.0048828125,1,1,1,1
+6d310e40cc204380820bd6a9740aa79c,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4384765625,0,0,0,0
+6d310e40cc204380820bd6a9740aa79c,rivaGan,32,clean,{},40.62358006969312,0.9999414955649926,0.0,,,,1
+6d310e40cc204380820bd6a9740aa79c,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+6d310e40cc204380820bd6a9740aa79c,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+6d310e40cc204380820bd6a9740aa79c,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+6d310e40cc204380820bd6a9740aa79c,rivaGan,32,screenshot,{},,,0.0,,,,1
+6d310e40cc204380820bd6a9740aa79c,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDct,1024,clean,{},40.64582818416432,0.9999983933338129,0.0927734375,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.51171875,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4482421875,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4736328125,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDct,1024,screenshot,{},,,0.4365234375,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4970703125,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDctSvd,1024,clean,{},41.511120045295186,0.9999999860385563,0.0,1,1,1,1
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.2314453125,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4287109375,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.001953125,1,1,1,1
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDctSvd,1024,screenshot,{},,,0.0009765625,1,1,1,1
+e26c598ad5084ed6ad4e98df3f5b81e2,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.41796875,0,0,0,0
+e26c598ad5084ed6ad4e98df3f5b81e2,rivaGan,32,clean,{},40.70518929384426,0.9999399596373477,0.0,,,,1
+e26c598ad5084ed6ad4e98df3f5b81e2,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+e26c598ad5084ed6ad4e98df3f5b81e2,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+e26c598ad5084ed6ad4e98df3f5b81e2,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+e26c598ad5084ed6ad4e98df3f5b81e2,rivaGan,32,screenshot,{},,,0.0,,,,1
+e26c598ad5084ed6ad4e98df3f5b81e2,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+b8889c7c71404ffea5cf06a31085adee,dwtDct,1024,clean,{},40.681857700256465,0.9999991955436605,0.3046875,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4599609375,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4775390625,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDct,1024,blur,"{""ksize"": 3}",,,0.4443359375,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDct,1024,screenshot,{},,,0.4169921875,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4833984375,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDctSvd,1024,clean,{},40.71454793061783,0.9999999773471028,0.0,1,1,1,1
+b8889c7c71404ffea5cf06a31085adee,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0458984375,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.470703125,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0,1,1,1,1
+b8889c7c71404ffea5cf06a31085adee,dwtDctSvd,1024,screenshot,{},,,0.0283203125,1,1,1,1
+b8889c7c71404ffea5cf06a31085adee,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.462890625,0,0,0,0
+b8889c7c71404ffea5cf06a31085adee,rivaGan,32,clean,{},40.6906274620858,0.9999266486949479,0.0,,,,1
+b8889c7c71404ffea5cf06a31085adee,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+b8889c7c71404ffea5cf06a31085adee,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+b8889c7c71404ffea5cf06a31085adee,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+b8889c7c71404ffea5cf06a31085adee,rivaGan,32,screenshot,{},,,0.0,,,,1
+b8889c7c71404ffea5cf06a31085adee,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+1605c145729a4a5b9c679c1eb20649b5,dwtDct,1024,clean,{},40.053008050031096,0.9999997443049725,0.2412109375,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4619140625,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.466796875,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3505859375,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDct,1024,screenshot,{},,,0.34765625,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.482421875,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDctSvd,1024,clean,{},40.43534876412541,0.999999942781349,0.0,1,1,1,1
+1605c145729a4a5b9c679c1eb20649b5,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0458984375,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4140625,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0068359375,1,1,1,1
+1605c145729a4a5b9c679c1eb20649b5,dwtDctSvd,1024,screenshot,{},,,0.0146484375,1,1,1,1
+1605c145729a4a5b9c679c1eb20649b5,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.41015625,0,0,0,0
+1605c145729a4a5b9c679c1eb20649b5,rivaGan,32,clean,{},40.53534120720303,0.9999406716752874,0.0,,,,1
+1605c145729a4a5b9c679c1eb20649b5,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+1605c145729a4a5b9c679c1eb20649b5,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+1605c145729a4a5b9c679c1eb20649b5,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+1605c145729a4a5b9c679c1eb20649b5,rivaGan,32,screenshot,{},,,0.0,,,,1
+1605c145729a4a5b9c679c1eb20649b5,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+d61fc619c65645ecbe4dc22099e441b3,dwtDct,1024,clean,{},40.515308394340195,0.9999991985760227,0.0,1,1,1,1
+d61fc619c65645ecbe4dc22099e441b3,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.5146484375,1,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4814453125,0,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDct,1024,blur,"{""ksize"": 3}",,,0.458984375,1,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDct,1024,screenshot,{},,,0.443359375,1,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.515625,1,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDctSvd,1024,clean,{},43.12201342019254,0.9999999751969163,0.0,1,1,1,1
+d61fc619c65645ecbe4dc22099e441b3,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.376953125,0,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4287109375,0,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0146484375,1,1,1,1
+d61fc619c65645ecbe4dc22099e441b3,dwtDctSvd,1024,screenshot,{},,,0.0009765625,1,1,1,1
+d61fc619c65645ecbe4dc22099e441b3,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4541015625,0,0,0,0
+d61fc619c65645ecbe4dc22099e441b3,rivaGan,32,clean,{},40.727312264195234,0.9999441825442287,0.0,,,,1
+d61fc619c65645ecbe4dc22099e441b3,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+d61fc619c65645ecbe4dc22099e441b3,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+d61fc619c65645ecbe4dc22099e441b3,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+d61fc619c65645ecbe4dc22099e441b3,rivaGan,32,screenshot,{},,,0.0,,,,1
+d61fc619c65645ecbe4dc22099e441b3,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+9e40d5aa9e36465da51c73806c9304e5,dwtDct,1024,clean,{},36.97049872080596,0.9999995244627302,0.294921875,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.39453125,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5107421875,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3056640625,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDct,1024,screenshot,{},,,0.310546875,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5087890625,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDctSvd,1024,clean,{},36.91863402729095,0.9999996284095061,0.0,1,1,1,1
+9e40d5aa9e36465da51c73806c9304e5,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.05859375,1,1,1,1
+9e40d5aa9e36465da51c73806c9304e5,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.4873046875,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0009765625,1,1,1,1
+9e40d5aa9e36465da51c73806c9304e5,dwtDctSvd,1024,screenshot,{},,,0.0048828125,1,1,1,1
+9e40d5aa9e36465da51c73806c9304e5,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.486328125,0,0,0,0
+9e40d5aa9e36465da51c73806c9304e5,rivaGan,32,clean,{},40.35878886275036,0.9999244436444307,0.0,,,,1
+9e40d5aa9e36465da51c73806c9304e5,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+9e40d5aa9e36465da51c73806c9304e5,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+9e40d5aa9e36465da51c73806c9304e5,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+9e40d5aa9e36465da51c73806c9304e5,rivaGan,32,screenshot,{},,,0.0,,,,1
+9e40d5aa9e36465da51c73806c9304e5,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+1a0d1565510942ea8b7b32df360373bd,dwtDct,1024,clean,{},37.5874745232729,0.9999994541083823,0.23828125,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.392578125,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.455078125,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDct,1024,blur,"{""ksize"": 3}",,,0.271484375,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDct,1024,screenshot,{},,,0.2548828125,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.478515625,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDctSvd,1024,clean,{},37.42508260477268,0.9999997055955816,0.0,1,1,1,1
+1a0d1565510942ea8b7b32df360373bd,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.0458984375,1,1,1,1
+1a0d1565510942ea8b7b32df360373bd,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.474609375,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0048828125,1,1,1,1
+1a0d1565510942ea8b7b32df360373bd,dwtDctSvd,1024,screenshot,{},,,0.0029296875,1,1,1,1
+1a0d1565510942ea8b7b32df360373bd,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4541015625,0,0,0,0
+1a0d1565510942ea8b7b32df360373bd,rivaGan,32,clean,{},40.47180228909309,0.9999311376310042,0.0,,,,1
+1a0d1565510942ea8b7b32df360373bd,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+1a0d1565510942ea8b7b32df360373bd,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+1a0d1565510942ea8b7b32df360373bd,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+1a0d1565510942ea8b7b32df360373bd,rivaGan,32,screenshot,{},,,0.0,,,,1
+1a0d1565510942ea8b7b32df360373bd,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+43b03778f407415cb98d66856eed201c,dwtDct,1024,clean,{},36.29295054764895,0.999999522290166,0.3447265625,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.453125,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.5107421875,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDct,1024,blur,"{""ksize"": 3}",,,0.373046875,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDct,1024,screenshot,{},,,0.353515625,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.5,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDctSvd,1024,clean,{},36.20921765840397,0.9999997350943783,0.0,1,1,1,1
+43b03778f407415cb98d66856eed201c,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.04296875,1,1,1,1
+43b03778f407415cb98d66856eed201c,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.466796875,0,0,0,0
+43b03778f407415cb98d66856eed201c,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.005859375,1,1,1,1
+43b03778f407415cb98d66856eed201c,dwtDctSvd,1024,screenshot,{},,,0.0146484375,1,1,1,1
+43b03778f407415cb98d66856eed201c,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.470703125,0,0,0,0
+43b03778f407415cb98d66856eed201c,rivaGan,32,clean,{},40.50262500097852,0.9999163140420534,0.0,,,,1
+43b03778f407415cb98d66856eed201c,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+43b03778f407415cb98d66856eed201c,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+43b03778f407415cb98d66856eed201c,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+43b03778f407415cb98d66856eed201c,rivaGan,32,screenshot,{},,,0.0,,,,1
+43b03778f407415cb98d66856eed201c,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDct,1024,clean,{},36.44368918031575,0.9999987443175871,0.27734375,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.42578125,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.498046875,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3564453125,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDct,1024,screenshot,{},,,0.3076171875,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.486328125,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDctSvd,1024,clean,{},36.54730516649204,0.9999990058071553,0.0,1,1,1,1
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.048828125,1,1,1,1
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.453125,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0029296875,1,1,1,1
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDctSvd,1024,screenshot,{},,,0.0029296875,1,1,1,1
+cf0e993d03d742ccb5ae93b39c307d5d,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.46875,0,0,0,0
+cf0e993d03d742ccb5ae93b39c307d5d,rivaGan,32,clean,{},40.33828615091985,0.9999399204209324,0.0,,,,1
+cf0e993d03d742ccb5ae93b39c307d5d,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+cf0e993d03d742ccb5ae93b39c307d5d,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+cf0e993d03d742ccb5ae93b39c307d5d,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+cf0e993d03d742ccb5ae93b39c307d5d,rivaGan,32,screenshot,{},,,0.0,,,,1
+cf0e993d03d742ccb5ae93b39c307d5d,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1
+59482b911284491bb090964bf97b7732,dwtDct,1024,clean,{},35.332189394267004,0.9999988371618397,0.2841796875,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDct,1024,jpeg,"{""quality"": 50}",,,0.4033203125,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDct,1024,crop,"{""ratio"": 0.9}",,,0.4736328125,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDct,1024,blur,"{""ksize"": 3}",,,0.3271484375,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDct,1024,screenshot,{},,,0.291015625,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDct,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.490234375,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDctSvd,1024,clean,{},35.39311058602778,0.9999993212318602,0.0,1,1,1,1
+59482b911284491bb090964bf97b7732,dwtDctSvd,1024,jpeg,"{""quality"": 50}",,,0.03515625,1,1,1,1
+59482b911284491bb090964bf97b7732,dwtDctSvd,1024,crop,"{""ratio"": 0.9}",,,0.458984375,0,0,0,0
+59482b911284491bb090964bf97b7732,dwtDctSvd,1024,blur,"{""ksize"": 3}",,,0.0107421875,1,1,1,1
+59482b911284491bb090964bf97b7732,dwtDctSvd,1024,screenshot,{},,,0.005859375,1,1,1,1
+59482b911284491bb090964bf97b7732,dwtDctSvd,1024,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.4658203125,0,0,0,0
+59482b911284491bb090964bf97b7732,rivaGan,32,clean,{},40.37394919202619,0.999928989335281,0.0,,,,1
+59482b911284491bb090964bf97b7732,rivaGan,32,jpeg,"{""quality"": 50}",,,0.0,,,,1
+59482b911284491bb090964bf97b7732,rivaGan,32,crop,"{""ratio"": 0.9}",,,0.0,,,,1
+59482b911284491bb090964bf97b7732,rivaGan,32,blur,"{""ksize"": 3}",,,0.0,,,,1
+59482b911284491bb090964bf97b7732,rivaGan,32,screenshot,{},,,0.0,,,,1
+59482b911284491bb090964bf97b7732,rivaGan,32,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",,,0.0,,,,1

@@ -1,0 +1,162 @@
+{
+  "database_records": 200,
+  "quality": {
+    "count": 200,
+    "mean_psnr": 39.652216480718295,
+    "mean_ssim": 0.9989800771511451
+  },
+  "robustness": {
+    "clean:{}": {
+      "count": 200,
+      "success_rate": 1.0,
+      "mean_ber": 0.0016748046875,
+      "mean_score": 0.999484375,
+      "trust_counts": {
+        "high": 200
+      }
+    },
+    "jpeg:{'quality': 90}": {
+      "count": 200,
+      "success_rate": 1.0,
+      "mean_ber": 0.002216796875,
+      "mean_score": 0.9994609375,
+      "trust_counts": {
+        "high": 200
+      }
+    },
+    "jpeg:{'quality': 70}": {
+      "count": 200,
+      "success_rate": 0.995,
+      "mean_ber": 0.004228515625,
+      "mean_score": 0.995834375,
+      "trust_counts": {
+        "high": 199,
+        "low": 1
+      }
+    },
+    "jpeg:{'quality': 50}": {
+      "count": 200,
+      "success_rate": 0.995,
+      "mean_ber": 0.008173828125,
+      "mean_score": 0.9955578125,
+      "trust_counts": {
+        "high": 199,
+        "low": 1
+      }
+    },
+    "resize:{'scale': 0.75}": {
+      "count": 200,
+      "success_rate": 0.995,
+      "mean_ber": 0.006376953125,
+      "mean_score": 0.9955109375000001,
+      "trust_counts": {
+        "high": 199,
+        "low": 1
+      }
+    },
+    "resize:{'scale': 1.5}": {
+      "count": 200,
+      "success_rate": 1.0,
+      "mean_ber": 0.0019091796875,
+      "mean_score": 0.999484375,
+      "trust_counts": {
+        "high": 200
+      }
+    },
+    "crop:{'ratio': 0.9}": {
+      "count": 200,
+      "success_rate": 0.92,
+      "mean_ber": 0.085009765625,
+      "mean_score": 0.93772109375,
+      "trust_counts": {
+        "high": 184,
+        "low": 10,
+        "medium": 6
+      }
+    },
+    "gaussian_noise:{'sigma': 3}": {
+      "count": 200,
+      "success_rate": 1.0,
+      "mean_ber": 0.00203125,
+      "mean_score": 0.9998828125,
+      "trust_counts": {
+        "high": 200
+      }
+    },
+    "gaussian_noise:{'sigma': 8}": {
+      "count": 200,
+      "success_rate": 0.995,
+      "mean_ber": 0.0033056640625,
+      "mean_score": 0.99608046875,
+      "trust_counts": {
+        "high": 199,
+        "low": 1
+      }
+    },
+    "salt_pepper:{'amount': 0.002}": {
+      "count": 200,
+      "success_rate": 0.995,
+      "mean_ber": 0.0350927734375,
+      "mean_score": 0.995834375,
+      "trust_counts": {
+        "high": 199,
+        "low": 1
+      }
+    },
+    "brightness_contrast:{}": {
+      "count": 200,
+      "success_rate": 0.96,
+      "mean_ber": 0.0238232421875,
+      "mean_score": 0.9689156250000001,
+      "trust_counts": {
+        "high": 192,
+        "low": 6,
+        "medium": 2
+      }
+    },
+    "blur:{'ksize': 3}": {
+      "count": 200,
+      "success_rate": 0.98,
+      "mean_ber": 0.0337255859375,
+      "mean_score": 0.9845843750000001,
+      "trust_counts": {
+        "high": 196,
+        "low": 3,
+        "medium": 1
+      }
+    },
+    "screenshot:{}": {
+      "count": 200,
+      "success_rate": 0.995,
+      "mean_ber": 0.0105419921875,
+      "mean_score": 0.99552265625,
+      "trust_counts": {
+        "high": 199,
+        "low": 1
+      }
+    },
+    "real_screen_capture:{}": {
+      "count": 200,
+      "success_rate": 0.0,
+      "mean_ber": 0.5352978515625,
+      "mean_score": 0.14559843749999998,
+      "trust_counts": {
+        "low": 200
+      }
+    },
+    "print_scan:{}": {
+      "count": 200,
+      "success_rate": 0.0,
+      "mean_ber": 0.4948193359375,
+      "mean_score": 0.14228671874999999,
+      "trust_counts": {
+        "low": 200
+      }
+    }
+  },
+  "false_positive": {
+    "count": 100,
+    "false_positive_count": 0,
+    "false_positive_rate": 0.0
+  }
+}

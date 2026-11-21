@@ -1,0 +1,5 @@
+﻿generation_id,category,attack,params,relative_path,decoded_id_prefix,expected_id_prefix,generation_match,crc_ok,rs_success,ber,content_binding_score,content_binding_ok,alignment,score,trust,success,matched_generation_id
+751a36c8849445419312556e2f4007ff,portrait,clean,{},paper1_model\results_visual_evidence\case_gallery\clean.png,76EF54C5,76EF54C5,1,1,1,0.000000000,0.903750000,1,identity,1.000000000,high,1,751a36c8849445419312556e2f4007ff
+751a36c8849445419312556e2f4007ff,portrait,jpeg,"{""quality"": 70}",paper1_model\results_visual_evidence\case_gallery\jpeg.png,76EF54C5,76EF54C5,1,1,1,0.001953125,0.872500000,1,identity,1.000000000,high,1,751a36c8849445419312556e2f4007ff
+751a36c8849445419312556e2f4007ff,portrait,crop,"{""ratio"": 0.9}",paper1_model\results_visual_evidence\case_gallery\crop.png,76EF54C5,76EF54C5,1,1,1,0.085937500,0.892500000,1,scale_0.9_reflect,0.997656250,high,1,751a36c8849445419312556e2f4007ff
+751a36c8849445419312556e2f4007ff,portrait,print_scan,{},paper1_model\results_visual_evidence\case_gallery\print_scan.png,62A006A4,76EF54C5,0,0,0,0.481445312,0.533750000,1,identity,0.142968750,low,0,751a36c8849445419312556e2f4007ff

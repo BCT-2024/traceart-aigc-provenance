@@ -1,0 +1,18 @@
+{
+  "sample": {
+    "positive": 200,
+    "negative_ai": 50,
+    "natural": 50
+  },
+  "base_alpha": 28.0,
+  "alpha_sweep": [
+    8,
+    12,
+    16,
+    20,
+    24,
+    28
+  ],
+  "completed_configs": 17,
+  "output": "paper1_model/results_ablation_full_alpha28/ablation_summary.csv"
+}

@@ -1,0 +1,5 @@
+- A 128-bit structured payload links images to registered generation events.
+- DWT-DCT embedding achieved 39.65 dB PSNR and 0.99898 SSIM.
+- Joint verification rejected all 20 forged and 50 transplanted payloads.
+- Crop and compound JPEG cases reached 92.0% and 81.5% acceptance.
+- Screen-capture and print-scan simulators failed on all 200 test images.

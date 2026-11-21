@@ -1,0 +1,12 @@
+﻿donor,target,score,method,query_keypoints,reference_keypoints,good_matches,gray_std,gray_range,edge_density,orb_keypoints
+solid_white,solid_gray,0.7333333194255829,flat_signature_fallback,0,0,0,0.0,0,0.0,0
+solid_gray,solid_black,0.7333333194255829,flat_signature_fallback,0,0,0,0.0,0,0.0,0
+solid_black,solid_red,0.7888888716697693,flat_signature_fallback,0,0,0,0.0,0,0.0,0
+solid_red,solid_blue,0.800000011920929,flat_signature_fallback,0,0,0,0.0,0,0.0,0
+solid_blue,low_gradient_gray,0.6472222208976746,flat_signature_fallback,0,0,0,0.0,0,0.0,0
+low_gradient_gray,low_gradient_sky,0.5888888835906982,flat_signature_fallback,0,0,0,4.0407999164576,14,0.0,0
+low_gradient_sky,large_blocks_similar,0.5791666507720947,flat_signature_fallback,0,0,0,4.629008437690618,16,0.0,0
+large_blocks_similar,large_blocks_distinct,0.8611111044883728,flat_signature_fallback,0,0,0,3.0,6,0.0,0
+large_blocks_distinct,simple_shapes,0.5423611104488373,flat_signature_fallback,40,0,0,8.5,17,0.0,0
+simple_shapes,soft_sky,0.6842013895511627,flat_signature_fallback,0,34,0,21.4733815018596,65,0.00469970703125,34
+soft_sky,solid_white,0.6465277671813965,flat_signature_fallback,0,0,0,24.535046403964223,99,0.0,0

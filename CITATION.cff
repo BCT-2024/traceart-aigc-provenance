@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and archive DOI."
+title: "Structured DWT-DCT Payloads for Database-Backed AIGC Image Provenance Verification and Trust Scoring"
+type: software
+authors:
+  - family-names: Dong
+    given-names: Lianli
+    orcid: "https://orcid.org/0009-0005-3415-3894"
+    affiliation: "School of Economics and Management, Hunan University of Technology"
+  - family-names: Luo
+    given-names: Zican
+    affiliation: "School of Economics and Management, Hunan University of Technology"
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+keywords:
+  - AIGC provenance
+  - image watermarking
+  - DWT-DCT
+  - perceptual hashing
+  - trust scoring

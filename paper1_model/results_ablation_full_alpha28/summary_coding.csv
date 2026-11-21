@@ -1,0 +1,5 @@
+﻿group,config,mean_psnr,mean_ssim,clean_success,jpeg50_success,crop_success,noise8_success,blur_success,screenshot_success,false_positive_rate
+coding,raw,45.92157400970993,0.9998367745897037,0.92,0.525,0.0,0.82,0.11,0.475,0.0
+coding,repeat_only,39.621570801151904,0.9989726839594683,0.995,0.99,0.815,0.995,0.97,0.985,0.0
+coding,rs_only,44.223992098777074,0.9997122613804181,0.995,0.95,0.0,0.99,0.68,0.945,0.0
+coding,rs_repeat,39.652216480718295,0.9989800771511451,1.0,0.995,0.92,0.995,0.98,0.995,0.0

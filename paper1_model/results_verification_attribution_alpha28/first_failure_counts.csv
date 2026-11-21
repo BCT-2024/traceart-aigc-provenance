@@ -1,0 +1,22 @@
+﻿attack_key,attack,params,label,attack_group,count,Accepted,Payload integrity,Registry mismatch,Content binding,Trust threshold
+clean,clean,{},Clean,single,200,1.0,0.0,0.0,0.0,0.0
+jpeg:quality-90,jpeg,"{""quality"": 90}",JPEG Q90,single,200,1.0,0.0,0.0,0.0,0.0
+jpeg:quality-70,jpeg,"{""quality"": 70}",JPEG Q70,single,200,0.995,0.005,0.0,0.0,0.0
+jpeg:quality-50,jpeg,"{""quality"": 50}",JPEG Q50,single,200,0.995,0.005,0.0,0.0,0.0
+resize:scale-0.75,resize,"{""scale"": 0.75}",Resize 0.75x,single,200,0.995,0.005,0.0,0.0,0.0
+resize:scale-1.5,resize,"{""scale"": 1.5}",Resize 1.5x,single,200,1.0,0.0,0.0,0.0,0.0
+crop:ratio-0.9,crop,"{""ratio"": 0.9}",Crop 0.9,single,200,0.92,0.08,0.0,0.0,0.0
+gaussian_noise:sigma-3,gaussian_noise,"{""sigma"": 3}",Gaussian noise s=3,single,200,1.0,0.0,0.0,0.0,0.0
+gaussian_noise:sigma-8,gaussian_noise,"{""sigma"": 8}",Gaussian noise s=8,single,200,0.995,0.005,0.0,0.0,0.0
+salt_pepper:amount-0.002,salt_pepper,"{""amount"": 0.002}",Salt-and-pepper 0.002,single,200,0.995,0.005,0.0,0.0,0.0
+brightness_contrast,brightness_contrast,{},Brightness/contrast,single,200,0.96,0.04,0.0,0.0,0.0
+blur:ksize-3,blur,"{""ksize"": 3}",Blur 3x3,single,200,0.98,0.02,0.0,0.0,0.0
+screenshot,screenshot,{},Screenshot sim.,single,200,0.995,0.005,0.0,0.0,0.0
+real_screen_capture,real_screen_capture,{},Screen-capture sim.,single,200,0.0,1.0,0.0,0.0,0.0
+print_scan,print_scan,{},Print-scan sim.,single,200,0.0,1.0,0.0,0.0,0.0
+crop_jpeg:crop_ratio-0.9_jpeg_quality-70,crop_jpeg,"{""crop_ratio"": 0.9, ""jpeg_quality"": 70}",Crop+JPEG,combined,200,0.875,0.125,0.0,0.0,0.0
+resize_jpeg:jpeg_quality-70_scale-0.75,resize_jpeg,"{""scale"": 0.75, ""jpeg_quality"": 70}",Resize+JPEG,combined,200,0.995,0.005,0.0,0.0,0.0
+screenshot_noise:jpeg_quality-80_scale-0.8_sigma-3,screenshot_noise,"{""scale"": 0.8, ""jpeg_quality"": 80, ""sigma"": 3}",Screenshot+noise,combined,200,0.995,0.005,0.0,0.0,0.0
+blur_jpeg:jpeg_quality-70_ksize-3,blur_jpeg,"{""ksize"": 3, ""jpeg_quality"": 70}",Blur+JPEG,combined,200,0.96,0.04,0.0,0.0,0.0
+crop_resize_jpeg:crop_ratio-0.9_jpeg_quality-70_scale-0.8,crop_resize_jpeg,"{""crop_ratio"": 0.9, ""scale"": 0.8, ""jpeg_quality"": 70}",Crop+Resize+JPEG,combined,200,0.815,0.185,0.0,0.0,0.0
+social_recompress:quality_1-75_quality_2-70_scale-0.9,social_recompress,"{""quality_1"": 75, ""scale"": 0.9, ""quality_2"": 70}",Social recompression,combined,200,0.995,0.005,0.0,0.0,0.0

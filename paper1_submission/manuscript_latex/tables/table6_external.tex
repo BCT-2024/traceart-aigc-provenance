@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\caption{Comparison with external watermarking methods on the common 50-image subset.}
+\label{tab:external}
+\begin{tabular}{l r r r r}
+\toprule
+Metric & Ours & DWT-DCT & DWT-DCT-SVD & RivaGAN \\
+\midrule
+Payload bits & 1024 & 1024 & 1024 & 32 \\
+N & 50 & 50 & 50 & 50 \\
+PSNR (dB) & 40.33 & 37.76 & 37.68 & 40.48 \\
+SSIM & 0.9993 & 1.0000 & 1.0000 & 0.9999 \\
+JPEG50 (\%) & 100.0 & 0.0 & 72.0 & 100.0 \\
+Crop (\%) & 94.0 & 0.0 & 0.0 & 100.0 \\
+Blur (\%) & 100.0 & 0.0 & 100.0 & 100.0 \\
+Screenshot (\%) & 100.0 & 0.0 & 100.0 & 100.0 \\
+Crop+Resize+JPEG (\%) & 88.0 & 0.0 & 0.0 & 100.0 \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\footnotesize RivaGAN uses a native 32-bit payload and is a short-payload reference, not an equal-payload baseline.
+\end{table}

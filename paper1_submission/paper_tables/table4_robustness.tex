@@ -1,0 +1,32 @@
+\begin{table}[t]
+\centering
+\caption{Verification success, mean BER, and trust composition under single and compound transformations.}
+\label{tab:robustness}
+\begin{tabular}{l l r r r}
+\toprule
+Family & Operation & N & Success (\%) & BER \\
+\midrule
+Single & Clean & 200 & 100.0 & 0.002 \\
+Single & JPEG Q50 & 200 & 99.5 & 0.008 \\
+Single & JPEG Q70 & 200 & 99.5 & 0.004 \\
+Single & JPEG Q90 & 200 & 100.0 & 0.002 \\
+Single & Resize x0.75 & 200 & 99.5 & 0.006 \\
+Single & Resize x1.5 & 200 & 100.0 & 0.002 \\
+Single & Crop 0.9 & 200 & 92.0 & 0.085 \\
+Single & Gaussian noise sigma=3 & 200 & 100.0 & 0.002 \\
+Single & Gaussian noise sigma=8 & 200 & 99.5 & 0.003 \\
+Single & Salt-and-pepper 0.002 & 200 & 99.5 & 0.035 \\
+Single & Brightness/contrast & 200 & 96.0 & 0.024 \\
+Single & Gaussian blur 3x3 & 200 & 98.0 & 0.034 \\
+Single & Screenshot simulation & 200 & 99.5 & 0.011 \\
+Compound & Crop 0.9 + JPEG Q70 & 200 & 87.5 & 0.092 \\
+Compound & Resize x0.75 + JPEG Q70 & 200 & 99.5 & 0.011 \\
+Compound & Screenshot + noise sigma=3 & 200 & 99.5 & 0.012 \\
+Compound & Blur + JPEG Q70 & 200 & 96.0 & 0.041 \\
+Compound & Crop 0.9 + resize x0.8 + JPEG Q70 & 200 & 81.5 & 0.096 \\
+Compound & Social recompression & 200 & 99.5 & 0.008 \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\footnotesize Each operation uses 200 registered positives. Success requires a valid CRC/RS decode, a database generation match, content binding, and a non-low trust score. Trust-level composition is shown in Fig. 6.
+\end{table}

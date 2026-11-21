@@ -1,0 +1,9 @@
+numpy
+opencv-python
+PyWavelets
+reedsolo
+Pillow
+matplotlib
+invisible-watermark
+onnxruntime
+scikit-learn

@@ -1,0 +1,128 @@
+{
+  "dwtDct:clean": {
+    "count": 50,
+    "mean_psnr": 37.759669052166366,
+    "mean_ssim": 0.9999990922232186,
+    "mean_ber": 0.32458984375,
+    "success_rate": 0.02
+  },
+  "dwtDct:jpeg": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.42474609375,
+    "success_rate": 0.0
+  },
+  "dwtDct:crop": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.4905078125,
+    "success_rate": 0.0
+  },
+  "dwtDct:blur": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.3653515625,
+    "success_rate": 0.0
+  },
+  "dwtDct:screenshot": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.34625,
+    "success_rate": 0.0
+  },
+  "dwtDct:crop_resize_jpeg": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.4927734375,
+    "success_rate": 0.0
+  },
+  "dwtDctSvd:clean": {
+    "count": 50,
+    "mean_psnr": 37.68439981486812,
+    "mean_ssim": 0.9999995320444561,
+    "mean_ber": 0.0,
+    "success_rate": 1.0
+  },
+  "dwtDctSvd:jpeg": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.07017578125,
+    "success_rate": 0.72
+  },
+  "dwtDctSvd:crop": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.47109375,
+    "success_rate": 0.0
+  },
+  "dwtDctSvd:blur": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.00609375,
+    "success_rate": 1.0
+  },
+  "dwtDctSvd:screenshot": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.0115234375,
+    "success_rate": 1.0
+  },
+  "dwtDctSvd:crop_resize_jpeg": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.4741796875,
+    "success_rate": 0.0
+  },
+  "rivaGan:clean": {
+    "count": 50,
+    "mean_psnr": 40.47628558872812,
+    "mean_ssim": 0.9999179616118127,
+    "mean_ber": 0.000625,
+    "success_rate": 1.0
+  },
+  "rivaGan:jpeg": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.00125,
+    "success_rate": 1.0
+  },
+  "rivaGan:crop": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.00125,
+    "success_rate": 1.0
+  },
+  "rivaGan:blur": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.000625,
+    "success_rate": 1.0
+  },
+  "rivaGan:screenshot": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.000625,
+    "success_rate": 1.0
+  },
+  "rivaGan:crop_resize_jpeg": {
+    "count": 50,
+    "mean_psnr": null,
+    "mean_ssim": null,
+    "mean_ber": 0.00125,
+    "success_rate": 1.0
+  }
+}

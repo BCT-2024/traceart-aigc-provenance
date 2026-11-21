@@ -1,0 +1,7 @@
+﻿attack,dct_only,dwt_dct
+Crop+JPEG70,0.9,0.875
+Resize0.75+JPEG70,1.0,0.995
+Screenshot+noise,1.0,0.995
+Blur+JPEG70,0.295,0.96
+Crop0.9+Resize0.8+JPEG70,0.875,0.815
+Social recompression,0.995,0.995

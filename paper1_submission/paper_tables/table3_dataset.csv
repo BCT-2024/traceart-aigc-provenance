@@ -1,0 +1,4 @@
+﻿Group,Source,Count,Role
+Platform positive,SD 1.5 / Anything V5,200,Registered provenance records
+Other-model AI negative,Elysium Anime V3,50,Non-platform AI images
+Natural negative,Wikimedia Commons,50,Non-AI images

@@ -1,0 +1,5 @@
+﻿group,config,mean_psnr,mean_ssim,clean_success,jpeg50_success,crop_success,noise8_success,blur_success,screenshot_success,false_positive_rate
+carrier,dct_only,43.45955136564775,0.9996040566118132,1.0,0.995,0.92,1.0,0.995,1.0,0.0
+carrier,dwt_dct,39.652216480718295,0.9989800771511451,1.0,0.995,0.92,0.995,0.98,0.995,0.0
+carrier,dwt_only,41.364465662311765,0.9993679802940248,1.0,0.98,0.39,1.0,0.87,0.995,0.0
+carrier,lsb,52.35873477303718,0.9999995974654944,1.0,0.0,0.0,0.0,0.0,0.0,0.0

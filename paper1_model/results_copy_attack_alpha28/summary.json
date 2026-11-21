@@ -1,0 +1,151 @@
+{
+  "config": {
+    "alpha": 28.0,
+    "repeat": 4,
+    "carrier": "dwt_dct",
+    "payload_mode": "rs_repeat",
+    "content_binding_threshold": 0.3,
+    "positive_donors": 50,
+    "negative_targets": 50
+  },
+  "copy_attack": {
+    "binding_0:watermark_only": {
+      "count": 50,
+      "acceptance_rate": 1.0,
+      "mean_score": 1.0,
+      "mean_content_binding_score": 0.014328843626806833,
+      "min_content_binding_score": 0.0,
+      "max_content_binding_score": 0.25375,
+      "trust_counts": {
+        "high": 50
+      }
+    },
+    "binding_0:db_only": {
+      "count": 50,
+      "acceptance_rate": 1.0,
+      "mean_score": 0.8605937499999999,
+      "mean_content_binding_score": 0.014328843626806833,
+      "min_content_binding_score": 0.0,
+      "max_content_binding_score": 0.25375,
+      "trust_counts": {
+        "high": 50
+      }
+    },
+    "binding_0:joint": {
+      "count": 50,
+      "acceptance_rate": 1.0,
+      "mean_score": 0.9302968749999999,
+      "mean_content_binding_score": 0.014328843626806833,
+      "min_content_binding_score": 0.0,
+      "max_content_binding_score": 0.25375,
+      "trust_counts": {
+        "high": 50
+      }
+    },
+    "binding_1:watermark_only": {
+      "count": 50,
+      "acceptance_rate": 1.0,
+      "mean_score": 1.0,
+      "mean_content_binding_score": 0.014328843626806833,
+      "min_content_binding_score": 0.0,
+      "max_content_binding_score": 0.25375,
+      "trust_counts": {
+        "high": 50
+      }
+    },
+    "binding_1:db_only": {
+      "count": 50,
+      "acceptance_rate": 0.0,
+      "mean_score": 0.8605937499999999,
+      "mean_content_binding_score": 0.014328843626806833,
+      "min_content_binding_score": 0.0,
+      "max_content_binding_score": 0.25375,
+      "trust_counts": {
+        "high": 50
+      }
+    },
+    "binding_1:joint": {
+      "count": 50,
+      "acceptance_rate": 0.0,
+      "mean_score": 0.9302968749999999,
+      "mean_content_binding_score": 0.014328843626806833,
+      "min_content_binding_score": 0.0,
+      "max_content_binding_score": 0.25375,
+      "trust_counts": {
+        "high": 50
+      }
+    }
+  },
+  "positive_control": {
+    "clean:{}:binding_0": {
+      "count": 50,
+      "success_rate": 1.0,
+      "mean_content_binding_score": 0.90495
+    },
+    "clean:{}:binding_1": {
+      "count": 50,
+      "success_rate": 1.0,
+      "mean_content_binding_score": 0.90495
+    },
+    "jpeg:{\"quality\": 70}:binding_0": {
+      "count": 50,
+      "success_rate": 1.0,
+      "mean_content_binding_score": 0.8598
+    },
+    "jpeg:{\"quality\": 70}:binding_1": {
+      "count": 50,
+      "success_rate": 1.0,
+      "mean_content_binding_score": 0.8598
+    },
+    "crop:{\"ratio\": 0.9}:binding_0": {
+      "count": 50,
+      "success_rate": 0.94,
+      "mean_content_binding_score": 0.89335
+    },
+    "crop:{\"ratio\": 0.9}:binding_1": {
+      "count": 50,
+      "success_rate": 0.94,
+      "mean_content_binding_score": 0.89335
+    },
+    "screenshot:{}:binding_0": {
+      "count": 50,
+      "success_rate": 1.0,
+      "mean_content_binding_score": 0.851575
+    },
+    "screenshot:{}:binding_1": {
+      "count": 50,
+      "success_rate": 1.0,
+      "mean_content_binding_score": 0.851575
+    },
+    "real_screen_capture:{}:binding_0": {
+      "count": 50,
+      "success_rate": 0.0,
+      "mean_content_binding_score": 0.558375
+    },
+    "real_screen_capture:{}:binding_1": {
+      "count": 50,
+      "success_rate": 0.0,
+      "mean_content_binding_score": 0.558375
+    },
+    "print_scan:{}:binding_0": {
+      "count": 50,
+      "success_rate": 0.0,
+      "mean_content_binding_score": 0.45415
+    },
+    "print_scan:{}:binding_1": {
+      "count": 50,
+      "success_rate": 0.0,
+      "mean_content_binding_score": 0.45415
+    },
+    "crop_resize_jpeg:{\"crop_ratio\": 0.9, \"jpeg_quality\": 70, \"scale\": 0.8}:binding_0": {
+      "count": 50,
+      "success_rate": 0.88,
+      "mean_content_binding_score": 0.8509
+    },
+    "crop_resize_jpeg:{\"crop_ratio\": 0.9, \"jpeg_quality\": 70, \"scale\": 0.8}:binding_1": {
+      "count": 50,
+      "success_rate": 0.88,
+      "mean_content_binding_score": 0.8509
+    }
+  }
+}

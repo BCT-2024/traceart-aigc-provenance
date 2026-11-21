@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\caption{Structured 128-bit provenance payload.}
+\label{tab:payload}
+\begin{tabular}{l r l}
+\toprule
+Field & Bits & Purpose \\
+\midrule
+Version & 4 & Payload format version \\
+Platform hash & 8 & Platform namespace \\
+Generation hash & 48 & Per-generation identifier projection \\
+Model-version hash & 8 & Generator/model version \\
+Timestamp & 24 & Hours since Unix epoch \\
+Content hash & 16 & Compact content projection \\
+Reserved & 4 & Future extension \\
+CRC-16 & 16 & Header integrity \\
+Total & 128 & 16-byte structured payload \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\footnotesize After CRC-16, RS(32,16) expands the 16-byte payload to 32 bytes; fourfold repetition produces 1024 coded bits.
+\end{table}

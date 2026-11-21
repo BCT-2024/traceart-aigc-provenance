@@ -13,6 +13,8 @@ authors:
 version: 1.0.0
 date-released: 2026-11-21
 license: MIT
+doi: "10.5281/zenodo.24414128"
+repository-code: "https://github.com/BCT-2024/traceart-aigc-provenance"
 keywords:
   - AIGC provenance
   - image watermarking

@@ -10,6 +10,9 @@ Authors: Lianli Dong and Zican Luo
 Affiliation: School of Economics and Management, Hunan University of Technology,
 Zhuzhou 412007, Hunan, China.
 
+Archived version 1.0.0:
+[10.5281/zenodo.24414128](https://doi.org/10.5281/zenodo.24414128).
+
 This repository contains the 300-image benchmark, structured-payload and
 DWT-DCT watermarking code, database/content verification code, canonical result
 tables, final figures, and the LaTeX manuscript source.

@@ -1,21 +1,10 @@
-# Data Availability Draft
+# Data Availability
 
-Replace the placeholders after the GitHub release and Zenodo archive are created.
+The AIGC images, metadata, canonical evaluation results, source data underlying
+the figures and tables, and implementation code are available in the GitHub
+repository at <https://github.com/BCT-2024/traceart-aigc-provenance> and are
+archived as version 1.0.0 at <https://doi.org/10.5281/zenodo.24414128>.
 
-> The AIGC images, metadata, canonical evaluation tables, and source data
-> underlying the figures and tables are available in [Repository] at [DOI]. The
-> watermarking, attack, verification, and calibration code is archived at
-> [CODE DOI]. Natural images were obtained from Wikimedia Commons; their source
-> URLs and original licences are recorded in `paper1_dataset/metadata_all.csv`.
-> Third-party images remain subject to their original licences.
-
-Before submission, confirm:
-
-- repository URL;
-- dataset DOI;
-- code/release DOI;
-- whether the GitHub repository is public.
-
-The selected licences are MIT for source code and CC BY 4.0 for
-author-generated data. Third-party natural images retain their original
-licences.
+Source code is licensed under the MIT License, author-generated data and figures
+are licensed under CC BY 4.0, and third-party natural images retain the original
+Wikimedia Commons licences recorded in `paper1_dataset/metadata_all.csv`.
